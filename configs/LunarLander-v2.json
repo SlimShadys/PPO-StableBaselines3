@@ -16,6 +16,7 @@
     "max_grad_norm": 0.5,
     "game": "LunarLander-v2",
     "print_interval": 4096,
+    "save_everything": false,
     "environmentConfigs": {
         "render_mode": "rgb_array",
         "max_episode_steps": 1000,

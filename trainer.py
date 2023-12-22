@@ -33,6 +33,7 @@ class PPOTrainer():
         self.max_grad_norm = configs["max_grad_norm"]
         self.game = configs["game"]
         self.print_interval = configs["print_interval"]
+        self.save_everything = configs["save_everything"]
 
     # Save function
     def save(self, num_timesteps, mean_ep_rew, save_everything = False) -> None:
@@ -174,7 +175,7 @@ class PPOTrainer():
                         mean_ep_len = compute_mean([ep_info['l'] for ep_info in self.PPO.ep_info_buffer])
                         print(f"Mean episode reward (rollout): {mean_ep_rew:.3f}")
                         print(f"Mean episode lenght (rollout): {mean_ep_len:.3f}")
-                        self.save(num_timesteps, mean_ep_rew)
+                        self.save(num_timesteps, mean_ep_rew, save_everything=self.save_everything)
 
                     print(f"Entropy loss: {np.mean(entropy_losses)}")
                     print(f"Policy loss: {np.mean(pg_losses)}")
