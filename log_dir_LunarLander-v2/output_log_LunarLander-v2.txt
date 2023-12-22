@@ -1,0 +1,3185 @@
+============= TIMESTEP N. 2048 =============
+Mean episode reward (rollout): -186.13159859090908
+Mean episode lenght (rollout): 92.5909090909091
+============================================
+Entropy loss: -1.3829304575920105
+Policy loss: -0.007094902916287537
+Value loss: 902.5326475143432
+Clip fraction: 0.009228515625
+Approximate KL Divergence: 0.006949248723685741
+Loss: 104.52975463867188
+Clip range: 0.2
+Model updates: 20
+======================================================
+============= TIMESTEP N. 4096 =============
+Mean episode reward (rollout): -199.35702682222222
+Mean episode lenght (rollout): 89.88888888888889
+============================================
+Entropy loss: -1.3788869626820088
+Policy loss: -0.0044041021814337
+Value loss: 515.2852932929993
+Clip fraction: 0.04208984375
+Approximate KL Divergence: 0.007046006619930267
+Loss: 260.58148193359375
+Clip range: 0.2
+Model updates: 30
+======================================================
+============= TIMESTEP N. 6144 =============
+Mean episode reward (rollout): -178.0590884782609
+Mean episode lenght (rollout): 88.43478260869566
+============================================
+Entropy loss: -1.378993220999837
+Policy loss: -0.012747814925387502
+Value loss: 355.0506432056427
+Clip fraction: 0.061279296875
+Approximate KL Divergence: 0.008018124848604202
+Loss: 316.30047607421875
+Clip range: 0.2
+Model updates: 40
+======================================================
+============= TIMESTEP N. 8192 =============
+Mean episode reward (rollout): -169.43843713636363
+Mean episode lenght (rollout): 92.05681818181819
+============================================
+Entropy loss: -1.365746995434165
+Policy loss: -0.011286993438261561
+Value loss: 282.1861711978912
+Clip fraction: 0.073193359375
+Approximate KL Divergence: 0.009113814681768417
+Loss: 131.3378448486328
+Clip range: 0.2
+Model updates: 50
+======================================================
+============= TIMESTEP N. 10240 =============
+Mean episode reward (rollout): -153.98772929999998
+Mean episode lenght (rollout): 91.13
+============================================
+Entropy loss: -1.3540148876607419
+Policy loss: -0.012224380824773107
+Value loss: 345.67434458732606
+Clip fraction: 0.0978515625
+Approximate KL Divergence: 0.011671938002109528
+Loss: 112.88294982910156
+Clip range: 0.2
+Model updates: 60
+======================================================
+============= TIMESTEP N. 12288 =============
+Mean episode reward (rollout): -135.44068316
+Mean episode lenght (rollout): 94.45
+============================================
+Entropy loss: -1.3276254285126925
+Policy loss: -0.012164443131769075
+Value loss: 213.16619184017182
+Clip fraction: 0.122412109375
+Approximate KL Divergence: 0.011482811532914639
+Loss: 114.21002960205078
+Clip range: 0.2
+Model updates: 70
+======================================================
+============= TIMESTEP N. 14336 =============
+Mean episode reward (rollout): -115.24682957
+Mean episode lenght (rollout): 99.64
+============================================
+Entropy loss: -1.2858915362507104
+Policy loss: -0.014250441934564151
+Value loss: 157.57241187095642
+Clip fraction: 0.148388671875
+Approximate KL Divergence: 0.011509934440255165
+Loss: 47.75690460205078
+Clip range: 0.2
+Model updates: 80
+======================================================
+============= TIMESTEP N. 16384 =============
+Mean episode reward (rollout): -105.02464724000001
+Mean episode lenght (rollout): 106.62
+============================================
+Entropy loss: -1.238906179368496
+Policy loss: -0.011921992502175271
+Value loss: 100.59934858083724
+Clip fraction: 0.099609375
+Approximate KL Divergence: 0.011481687426567078
+Loss: 39.37553024291992
+Clip range: 0.2
+Model updates: 90
+======================================================
+============= TIMESTEP N. 18432 =============
+Mean episode reward (rollout): -91.77215016000004
+Mean episode lenght (rollout): 111.74
+============================================
+Entropy loss: -1.2033041410148144
+Policy loss: -0.010932772753585595
+Value loss: 69.43498829603195
+Clip fraction: 0.095068359375
+Approximate KL Divergence: 0.012803099118173122
+Loss: 17.218242645263672
+Clip range: 0.2
+Model updates: 100
+======================================================
+============= TIMESTEP N. 20480 =============
+Mean episode reward (rollout): -76.81239486
+Mean episode lenght (rollout): 117.57
+============================================
+Entropy loss: -1.1535891450941562
+Policy loss: -0.013723175021004863
+Value loss: 45.062612384557724
+Clip fraction: 0.184619140625
+Approximate KL Divergence: 0.017332671210169792
+Loss: 18.49774932861328
+Clip range: 0.2
+Model updates: 110
+======================================================
+============= TIMESTEP N. 22528 =============
+Mean episode reward (rollout): -72.57403278
+Mean episode lenght (rollout): 132.41
+============================================
+Entropy loss: -1.196430716663599
+Policy loss: -0.015277298164437524
+Value loss: 34.20682583749294
+Clip fraction: 0.136279296875
+Approximate KL Divergence: 0.015007233247160912
+Loss: 9.190180778503418
+Clip range: 0.2
+Model updates: 120
+======================================================
+============= TIMESTEP N. 24576 =============
+Mean episode reward (rollout): -73.71525218
+Mean episode lenght (rollout): 147.91
+============================================
+Entropy loss: -1.2207279119640588
+Policy loss: -0.013516005614656023
+Value loss: 68.46162406802178
+Clip fraction: 0.0791015625
+Approximate KL Divergence: 0.009380626492202282
+Loss: 31.734203338623047
+Clip range: 0.2
+Model updates: 130
+======================================================
+============= TIMESTEP N. 26624 =============
+Mean episode reward (rollout): -68.26645733
+Mean episode lenght (rollout): 166.43
+============================================
+Entropy loss: -1.2413882486522199
+Policy loss: -0.006848832737887278
+Value loss: 43.720204800367355
+Clip fraction: 0.076318359375
+Approximate KL Divergence: 0.009606186300516129
+Loss: 35.63245391845703
+Clip range: 0.2
+Model updates: 140
+======================================================
+============= TIMESTEP N. 28672 =============
+Mean episode reward (rollout): -64.04109279000001
+Mean episode lenght (rollout): 176.43
+============================================
+Entropy loss: -1.2111264634877443
+Policy loss: -0.014808674941014033
+Value loss: 25.48261576741934
+Clip fraction: 0.155908203125
+Approximate KL Divergence: 0.015046799555420876
+Loss: 5.49722957611084
+Clip range: 0.2
+Model updates: 150
+======================================================
+============= TIMESTEP N. 30720 =============
+Mean episode reward (rollout): -57.17659373000001
+Mean episode lenght (rollout): 194.68
+============================================
+Entropy loss: -1.1884438030421733
+Policy loss: -0.012054447855916806
+Value loss: 18.216970346868038
+Clip fraction: 0.089111328125
+Approximate KL Divergence: 0.009825918823480606
+Loss: 8.823102951049805
+Clip range: 0.2
+Model updates: 160
+======================================================
+============= TIMESTEP N. 32768 =============
+Mean episode reward (rollout): -47.59770117
+Mean episode lenght (rollout): 216.23
+============================================
+Entropy loss: -1.1167561158537864
+Policy loss: -0.009014815642149187
+Value loss: 60.15691534876824
+Clip fraction: 0.04287109375
+Approximate KL Divergence: 0.0049062250182032585
+Loss: 28.60124969482422
+Clip range: 0.2
+Model updates: 170
+======================================================
+============= TIMESTEP N. 34816 =============
+Mean episode reward (rollout): -44.312590220000004
+Mean episode lenght (rollout): 229.14
+============================================
+Entropy loss: -1.1458750426769257
+Policy loss: -0.007546870634541847
+Value loss: 37.78643017113209
+Clip fraction: 0.03095703125
+Approximate KL Divergence: 0.007272265385836363
+Loss: 20.27621841430664
+Clip range: 0.2
+Model updates: 180
+======================================================
+============= TIMESTEP N. 36864 =============
+Mean episode reward (rollout): -38.39970799
+Mean episode lenght (rollout): 248.97
+============================================
+Entropy loss: -1.1154999319463967
+Policy loss: -0.00483142658486031
+Value loss: 48.27876810580492
+Clip fraction: 0.049462890625
+Approximate KL Divergence: 0.007868651300668716
+Loss: 13.452248573303223
+Clip range: 0.2
+Model updates: 190
+======================================================
+============= TIMESTEP N. 38912 =============
+Mean episode reward (rollout): -34.015100860000004
+Mean episode lenght (rollout): 268.45
+============================================
+Entropy loss: -1.1678861718624831
+Policy loss: -0.010886645439313725
+Value loss: 23.07299100011587
+Clip fraction: 0.104833984375
+Approximate KL Divergence: 0.013928448781371117
+Loss: 7.395938873291016
+Clip range: 0.2
+Model updates: 200
+======================================================
+============= TIMESTEP N. 40960 =============
+Mean episode reward (rollout): -29.77776758
+Mean episode lenght (rollout): 286.11
+============================================
+Entropy loss: -1.1735163953155279
+Policy loss: -0.008896694357099477
+Value loss: 9.896443344652653
+Clip fraction: 0.184130859375
+Approximate KL Divergence: 0.013400533236563206
+Loss: 3.0259602069854736
+Clip range: 0.2
+Model updates: 210
+======================================================
+============= TIMESTEP N. 43008 =============
+Mean episode reward (rollout): -27.828312720000003
+Mean episode lenght (rollout): 296.21
+============================================
+Entropy loss: -1.1546827793121337
+Policy loss: -0.0035296829795697705
+Value loss: 18.03373978100717
+Clip fraction: 0.059228515625
+Approximate KL Divergence: 0.008929640054702759
+Loss: 1.7061618566513062
+Clip range: 0.2
+Model updates: 220
+======================================================
+============= TIMESTEP N. 45056 =============
+Mean episode reward (rollout): -22.778237250000004
+Mean episode lenght (rollout): 313.55
+============================================
+Entropy loss: -1.1048087611794473
+Policy loss: -0.005492621861048974
+Value loss: 7.475232806429267
+Clip fraction: 0.046142578125
+Approximate KL Divergence: 0.011483924463391304
+Loss: 0.9441071152687073
+Clip range: 0.2
+Model updates: 230
+======================================================
+============= TIMESTEP N. 47104 =============
+Mean episode reward (rollout): -14.506244750000006
+Mean episode lenght (rollout): 339.66
+============================================
+Entropy loss: -1.0574914637953043
+Policy loss: -0.006434989538684021
+Value loss: 5.857766791433096
+Clip fraction: 0.06240234375
+Approximate KL Divergence: 0.006052807439118624
+Loss: 5.298445224761963
+Clip range: 0.2
+Model updates: 240
+======================================================
+============= TIMESTEP N. 49152 =============
+Mean episode reward (rollout): -9.191801050000004
+Mean episode lenght (rollout): 348.89
+============================================
+Entropy loss: -1.0378582000732421
+Policy loss: -0.0039886485203169285
+Value loss: 19.303222669661046
+Clip fraction: 0.046875
+Approximate KL Divergence: 0.004807718098163605
+Loss: 1.975677728652954
+Clip range: 0.2
+Model updates: 250
+======================================================
+============= TIMESTEP N. 51200 =============
+Mean episode reward (rollout): -2.2397114500000033
+Mean episode lenght (rollout): 365.95
+============================================
+Entropy loss: -0.9747950922697782
+Policy loss: -0.009869497737963685
+Value loss: 5.680713319405913
+Clip fraction: 0.129248046875
+Approximate KL Divergence: 0.012654757127165794
+Loss: 1.747534990310669
+Clip range: 0.2
+Model updates: 260
+======================================================
+============= TIMESTEP N. 53248 =============
+Mean episode reward (rollout): 0.5452613899999971
+Mean episode lenght (rollout): 383.18
+============================================
+Entropy loss: -0.9336601290851831
+Policy loss: -0.005995725188404322
+Value loss: 3.586378291063011
+Clip fraction: 0.05234375
+Approximate KL Divergence: 0.0039028418250381947
+Loss: 1.2012019157409668
+Clip range: 0.2
+Model updates: 270
+======================================================
+============= TIMESTEP N. 55296 =============
+Mean episode reward (rollout): 6.697391449999998
+Mean episode lenght (rollout): 410.47
+============================================
+Entropy loss: -0.8731095807626843
+Policy loss: -0.006264405720867216
+Value loss: 1.2279795475304127
+Clip fraction: 0.0943359375
+Approximate KL Divergence: 0.0099272346124053
+Loss: 0.31383824348449707
+Clip range: 0.2
+Model updates: 280
+======================================================
+============= TIMESTEP N. 57344 =============
+Mean episode reward (rollout): 11.80870586
+Mean episode lenght (rollout): 428.26
+============================================
+Entropy loss: -0.8184745501726866
+Policy loss: -0.007844578407821245
+Value loss: 2.1065845089033246
+Clip fraction: 0.137548828125
+Approximate KL Divergence: 0.009665613994002342
+Loss: 0.3861585855484009
+Clip range: 0.2
+Model updates: 290
+======================================================
+============= TIMESTEP N. 59392 =============
+Mean episode reward (rollout): 16.989613079999998
+Mean episode lenght (rollout): 440.75
+============================================
+Entropy loss: -0.8392502274364233
+Policy loss: -0.006470437222742475
+Value loss: 44.41091243512928
+Clip fraction: 0.12158203125
+Approximate KL Divergence: 0.010513592511415482
+Loss: 7.081705093383789
+Clip range: 0.2
+Model updates: 300
+======================================================
+============= TIMESTEP N. 61440 =============
+Mean episode reward (rollout): 26.990913730000003
+Mean episode lenght (rollout): 457.03
+============================================
+Entropy loss: -0.8163141930475831
+Policy loss: -0.009076979382371064
+Value loss: 175.4953222721815
+Clip fraction: 0.112060546875
+Approximate KL Divergence: 0.016629796475172043
+Loss: 62.34974670410156
+Clip range: 0.2
+Model updates: 310
+======================================================
+============= TIMESTEP N. 63488 =============
+Mean episode reward (rollout): 38.6208831
+Mean episode lenght (rollout): 473.46
+============================================
+Entropy loss: -0.6851367676630616
+Policy loss: -0.004152930463897064
+Value loss: 143.7522208750248
+Clip fraction: 0.029931640625
+Approximate KL Divergence: 0.0037179351784288883
+Loss: 88.27825164794922
+Clip range: 0.2
+Model updates: 320
+======================================================
+============= TIMESTEP N. 65536 =============
+Mean episode reward (rollout): 50.736679460000005
+Mean episode lenght (rollout): 486.55
+============================================
+Entropy loss: -0.7833450481295585
+Policy loss: -0.005311116614029743
+Value loss: 118.37353658676147
+Clip fraction: 0.084716796875
+Approximate KL Divergence: 0.011207623407244682
+Loss: 18.52615737915039
+Clip range: 0.2
+Model updates: 330
+======================================================
+============= TIMESTEP N. 67584 =============
+Mean episode reward (rollout): 63.50542425999999
+Mean episode lenght (rollout): 506.17
+============================================
+Entropy loss: -0.776600988022983
+Policy loss: -0.0059610787022393195
+Value loss: 86.19079347252845
+Clip fraction: 0.072265625
+Approximate KL Divergence: 0.008117346093058586
+Loss: 20.9309024810791
+Clip range: 0.2
+Model updates: 340
+======================================================
+============= TIMESTEP N. 69632 =============
+Mean episode reward (rollout): 77.17663932
+Mean episode lenght (rollout): 517.51
+============================================
+Entropy loss: -0.751415454223752
+Policy loss: -0.00628451949742157
+Value loss: 170.78311171531678
+Clip fraction: 0.0455078125
+Approximate KL Divergence: 0.004663392901420593
+Loss: 122.78913116455078
+Clip range: 0.2
+Model updates: 350
+======================================================
+============= TIMESTEP N. 71680 =============
+Mean episode reward (rollout): 93.00002156000001
+Mean episode lenght (rollout): 531.29
+============================================
+Entropy loss: -0.717338470928371
+Policy loss: -0.005492084065917879
+Value loss: 169.06296809911728
+Clip fraction: 0.027001953125
+Approximate KL Divergence: 0.0036783290561288595
+Loss: 74.93614196777344
+Clip range: 0.2
+Model updates: 360
+======================================================
+============= TIMESTEP N. 73728 =============
+Mean episode reward (rollout): 105.00034698000002
+Mean episode lenght (rollout): 540.96
+============================================
+Entropy loss: -0.8593196680769324
+Policy loss: -0.0029023778246482835
+Value loss: 163.0153711616993
+Clip fraction: 0.020263671875
+Approximate KL Divergence: 0.0027246177196502686
+Loss: 35.58341598510742
+Clip range: 0.2
+Model updates: 370
+======================================================
+============= TIMESTEP N. 75776 =============
+Mean episode reward (rollout): 118.89395336
+Mean episode lenght (rollout): 554.71
+============================================
+Entropy loss: -0.7850729806348682
+Policy loss: -0.00427528521977365
+Value loss: 154.70722608566285
+Clip fraction: 0.073046875
+Approximate KL Divergence: 0.00814938172698021
+Loss: 68.82142639160156
+Clip range: 0.2
+Model updates: 380
+======================================================
+============= TIMESTEP N. 77824 =============
+Mean episode reward (rollout): 133.14100359
+Mean episode lenght (rollout): 554.7
+============================================
+Entropy loss: -0.7082342436537147
+Policy loss: -0.004949401287012734
+Value loss: 129.1282144367695
+Clip fraction: 0.01474609375
+Approximate KL Divergence: 0.0025512813590466976
+Loss: 25.862062454223633
+Clip range: 0.2
+Model updates: 390
+======================================================
+============= TIMESTEP N. 79872 =============
+Mean episode reward (rollout): 152.38047670000003
+Mean episode lenght (rollout): 544.1
+============================================
+Entropy loss: -0.7245225733146071
+Policy loss: -0.003288484615040943
+Value loss: 112.98995476961136
+Clip fraction: 0.022265625
+Approximate KL Divergence: 0.004387000575661659
+Loss: 57.96358108520508
+Clip range: 0.2
+Model updates: 400
+======================================================
+============= TIMESTEP N. 81920 =============
+Mean episode reward (rollout): 167.81549826
+Mean episode lenght (rollout): 526.36
+============================================
+Entropy loss: -0.6901520004495978
+Policy loss: -0.004690800215757918
+Value loss: 57.58826960921287
+Clip fraction: 0.041796875
+Approximate KL Divergence: 0.003724256530404091
+Loss: 27.78325080871582
+Clip range: 0.2
+Model updates: 410
+======================================================
+============= TIMESTEP N. 83968 =============
+Mean episode reward (rollout): 181.04679559999997
+Mean episode lenght (rollout): 511.32
+============================================
+Entropy loss: -0.7849347164854408
+Policy loss: -0.0031943693524226547
+Value loss: 99.33315884172916
+Clip fraction: 0.082666015625
+Approximate KL Divergence: 0.006734434515237808
+Loss: 20.70026206970215
+Clip range: 0.2
+Model updates: 420
+======================================================
+============= TIMESTEP N. 86016 =============
+Mean episode reward (rollout): 192.53819013000003
+Mean episode lenght (rollout): 483.63
+============================================
+Entropy loss: -0.7653151746839285
+Policy loss: -0.003072676464216784
+Value loss: 146.3272505402565
+Clip fraction: 0.05458984375
+Approximate KL Divergence: 0.006671127863228321
+Loss: 45.89733123779297
+Clip range: 0.2
+Model updates: 430
+======================================================
+============= TIMESTEP N. 88064 =============
+Mean episode reward (rollout): 198.07888703
+Mean episode lenght (rollout): 437.04
+============================================
+Entropy loss: -0.7556806864216924
+Policy loss: -0.004552450109622441
+Value loss: 244.32822654247283
+Clip fraction: 0.0349609375
+Approximate KL Divergence: 0.004272226709872484
+Loss: 108.2300033569336
+Clip range: 0.2
+Model updates: 440
+======================================================
+============= TIMESTEP N. 90112 =============
+Mean episode reward (rollout): 205.70484814
+Mean episode lenght (rollout): 388.16
+============================================
+Entropy loss: -0.8131743963807821
+Policy loss: -0.00454820147715509
+Value loss: 89.31545692980289
+Clip fraction: 0.04453125
+Approximate KL Divergence: 0.008103236556053162
+Loss: 15.50265884399414
+Clip range: 0.2
+Model updates: 450
+======================================================
+============= TIMESTEP N. 92160 =============
+Mean episode reward (rollout): 210.86379466000002
+Mean episode lenght (rollout): 354.78
+============================================
+Entropy loss: -0.7019718419760466
+Policy loss: -0.003977089504769537
+Value loss: 49.403501498699185
+Clip fraction: 0.03466796875
+Approximate KL Divergence: 0.0066786715760827065
+Loss: 24.336400985717773
+Clip range: 0.2
+Model updates: 460
+======================================================
+============= TIMESTEP N. 94208 =============
+Mean episode reward (rollout): 213.58726213000003
+Mean episode lenght (rollout): 331.33
+============================================
+Entropy loss: -0.7533001428470015
+Policy loss: -0.002428280206368072
+Value loss: 132.1541855841875
+Clip fraction: 0.054931640625
+Approximate KL Divergence: 0.005116685293614864
+Loss: 33.35697937011719
+Clip range: 0.2
+Model updates: 470
+======================================================
+============= TIMESTEP N. 96256 =============
+Mean episode reward (rollout): 209.06655571
+Mean episode lenght (rollout): 312.43
+============================================
+Entropy loss: -0.7888146774843335
+Policy loss: -0.006371562095591798
+Value loss: 137.96463944911957
+Clip fraction: 0.070361328125
+Approximate KL Divergence: 0.006086921319365501
+Loss: 73.75460815429688
+Clip range: 0.2
+Model updates: 480
+======================================================
+============= TIMESTEP N. 98304 =============
+Mean episode reward (rollout): 209.07541364999997
+Mean episode lenght (rollout): 299.18
+============================================
+Entropy loss: -0.7852445537224412
+Policy loss: -0.004906421857594978
+Value loss: 52.51890513896942
+Clip fraction: 0.0830078125
+Approximate KL Divergence: 0.00751477899029851
+Loss: 19.16316795349121
+Clip range: 0.2
+Model updates: 490
+======================================================
+============= TIMESTEP N. 100352 =============
+Mean episode reward (rollout): 214.11707600999998
+Mean episode lenght (rollout): 295.4
+============================================
+Entropy loss: -0.7472990591078996
+Policy loss: -0.004897019251075108
+Value loss: 137.80912505984307
+Clip fraction: 0.034423828125
+Approximate KL Divergence: 0.00376744382083416
+Loss: 72.09764862060547
+Clip range: 0.2
+Model updates: 500
+======================================================
+============= TIMESTEP N. 102400 =============
+Mean episode reward (rollout): 208.00501578
+Mean episode lenght (rollout): 292.12
+============================================
+Entropy loss: -0.7589903367683292
+Policy loss: -0.003411054762545973
+Value loss: 279.18409395813944
+Clip fraction: 0.019970703125
+Approximate KL Divergence: 0.0028634294867515564
+Loss: 52.75922775268555
+Clip range: 0.2
+Model updates: 510
+======================================================
+============= TIMESTEP N. 104448 =============
+Mean episode reward (rollout): 209.07623774
+Mean episode lenght (rollout): 284.79
+============================================
+Entropy loss: -0.7311326490715147
+Policy loss: -0.001655727022443898
+Value loss: 133.65774883627893
+Clip fraction: 0.025439453125
+Approximate KL Divergence: 0.00514643918722868
+Loss: 24.3216495513916
+Clip range: 0.2
+Model updates: 520
+======================================================
+============= TIMESTEP N. 106496 =============
+Mean episode reward (rollout): 204.89770053
+Mean episode lenght (rollout): 278.49
+============================================
+Entropy loss: -0.7136024966835975
+Policy loss: -0.0050089100928744305
+Value loss: 239.54199718236924
+Clip fraction: 0.050341796875
+Approximate KL Divergence: 0.004115522839128971
+Loss: 59.88703536987305
+Clip range: 0.2
+Model updates: 530
+======================================================
+============= TIMESTEP N. 108544 =============
+Mean episode reward (rollout): 195.53436664999998
+Mean episode lenght (rollout): 273.73
+============================================
+Entropy loss: -0.6744358651340008
+Policy loss: -0.004712772864149883
+Value loss: 186.89025180339814
+Clip fraction: 0.039599609375
+Approximate KL Divergence: 0.002642410807311535
+Loss: 99.88262939453125
+Clip range: 0.2
+Model updates: 540
+======================================================
+============= TIMESTEP N. 110592 =============
+Mean episode reward (rollout): 189.47959837
+Mean episode lenght (rollout): 270.54
+============================================
+Entropy loss: -0.7291150122880936
+Policy loss: -0.002569928079174133
+Value loss: 191.19534353017806
+Clip fraction: 0.048583984375
+Approximate KL Divergence: 0.004150851629674435
+Loss: 171.03860473632812
+Clip range: 0.2
+Model updates: 550
+======================================================
+============= TIMESTEP N. 112640 =============
+Mean episode reward (rollout): 186.86256699000006
+Mean episode lenght (rollout): 270.44
+============================================
+Entropy loss: -0.717197897285223
+Policy loss: -0.00660613025247585
+Value loss: 135.6546113014221
+Clip fraction: 0.021826171875
+Approximate KL Divergence: 0.0037064587231725454
+Loss: 18.315587997436523
+Clip range: 0.2
+Model updates: 560
+======================================================
+============= TIMESTEP N. 114688 =============
+Mean episode reward (rollout): 186.05794848000002
+Mean episode lenght (rollout): 271.74
+============================================
+Entropy loss: -0.8358280902728439
+Policy loss: -0.000913389673223719
+Value loss: 178.46655623316764
+Clip fraction: 0.062939453125
+Approximate KL Divergence: 0.00675171846523881
+Loss: 53.68815231323242
+Clip range: 0.2
+Model updates: 570
+======================================================
+============= TIMESTEP N. 116736 =============
+Mean episode reward (rollout): 185.94571874000002
+Mean episode lenght (rollout): 270.92
+============================================
+Entropy loss: -0.7221627483144403
+Policy loss: -0.0034098093237844296
+Value loss: 227.6544701218605
+Clip fraction: 0.019384765625
+Approximate KL Divergence: 0.003880899865180254
+Loss: 59.38210678100586
+Clip range: 0.2
+Model updates: 580
+======================================================
+============= TIMESTEP N. 118784 =============
+Mean episode reward (rollout): 185.55995177
+Mean episode lenght (rollout): 272.93
+============================================
+Entropy loss: -0.6168108923360706
+Policy loss: -0.0008322322581079788
+Value loss: 57.98771630525589
+Clip fraction: 0.01943359375
+Approximate KL Divergence: 0.0022875783033668995
+Loss: 13.031877517700195
+Clip range: 0.2
+Model updates: 590
+======================================================
+============= TIMESTEP N. 120832 =============
+Mean episode reward (rollout): 173.05289017000004
+Mean episode lenght (rollout): 262.96
+============================================
+Entropy loss: -0.7864003064110875
+Policy loss: -0.006313818733906374
+Value loss: 176.88503679037095
+Clip fraction: 0.06142578125
+Approximate KL Divergence: 0.0045190127566456795
+Loss: 28.2777156829834
+Clip range: 0.2
+Model updates: 600
+======================================================
+============= TIMESTEP N. 122880 =============
+Mean episode reward (rollout): 176.82843894
+Mean episode lenght (rollout): 267.54
+============================================
+Entropy loss: -0.6351169548928738
+Policy loss: -0.00202821373968618
+Value loss: 178.67988429069518
+Clip fraction: 0.018408203125
+Approximate KL Divergence: 0.003317947266623378
+Loss: 79.55461120605469
+Clip range: 0.2
+Model updates: 610
+======================================================
+============= TIMESTEP N. 124928 =============
+Mean episode reward (rollout): 177.12124598000003
+Mean episode lenght (rollout): 267.55
+============================================
+Entropy loss: -0.7318481735885143
+Policy loss: -0.003810538437392097
+Value loss: 82.19170753955841
+Clip fraction: 0.08037109375
+Approximate KL Divergence: 0.010932086035609245
+Loss: 34.98347854614258
+Clip range: 0.2
+Model updates: 620
+======================================================
+============= TIMESTEP N. 126976 =============
+Mean episode reward (rollout): 179.67936394000003
+Mean episode lenght (rollout): 266.38
+============================================
+Entropy loss: -0.778511966764927
+Policy loss: -0.004720771363645326
+Value loss: 103.33741562366485
+Clip fraction: 0.0779296875
+Approximate KL Divergence: 0.009424244984984398
+Loss: 18.094322204589844
+Clip range: 0.2
+Model updates: 630
+======================================================
+============= TIMESTEP N. 129024 =============
+Mean episode reward (rollout): 193.69808824999996
+Mean episode lenght (rollout): 265.36
+============================================
+Entropy loss: -0.7844706423580646
+Policy loss: -0.004593336585094221
+Value loss: 38.238833990693095
+Clip fraction: 0.13388671875
+Approximate KL Divergence: 0.006690532900393009
+Loss: 11.892361640930176
+Clip range: 0.2
+Model updates: 640
+======================================================
+============= TIMESTEP N. 131072 =============
+Mean episode reward (rollout): 195.89371986000003
+Mean episode lenght (rollout): 265.25
+============================================
+Entropy loss: -0.7051768654957413
+Policy loss: -0.0038359500947990456
+Value loss: 77.07641714215279
+Clip fraction: 0.050537109375
+Approximate KL Divergence: 0.006718562915921211
+Loss: 27.869600296020508
+Clip range: 0.2
+Model updates: 650
+======================================================
+============= TIMESTEP N. 133120 =============
+Mean episode reward (rollout): 199.21709982000002
+Mean episode lenght (rollout): 269.1
+============================================
+Entropy loss: -0.6228698811493814
+Policy loss: -0.005030855067889206
+Value loss: 114.53170474171638
+Clip fraction: 0.052099609375
+Approximate KL Divergence: 0.00896557979285717
+Loss: 21.274293899536133
+Clip range: 0.2
+Model updates: 660
+======================================================
+============= TIMESTEP N. 135168 =============
+Mean episode reward (rollout): 203.7864822
+Mean episode lenght (rollout): 269.85
+============================================
+Entropy loss: -0.7070316119119525
+Policy loss: -0.007235724102065433
+Value loss: 104.11048906445504
+Clip fraction: 0.06025390625
+Approximate KL Divergence: 0.005344349890947342
+Loss: 26.983369827270508
+Clip range: 0.2
+Model updates: 670
+======================================================
+============= TIMESTEP N. 137216 =============
+Mean episode reward (rollout): 209.3937032
+Mean episode lenght (rollout): 268.56
+============================================
+Entropy loss: -0.6404046854004264
+Policy loss: -0.003756837290711701
+Value loss: 195.21349849104882
+Clip fraction: 0.033740234375
+Approximate KL Divergence: 0.004958128556609154
+Loss: 12.110928535461426
+Clip range: 0.2
+Model updates: 680
+======================================================
+============= TIMESTEP N. 139264 =============
+Mean episode reward (rollout): 205.28251393999994
+Mean episode lenght (rollout): 272.82
+============================================
+Entropy loss: -0.6671563876792789
+Policy loss: -0.00591009680647403
+Value loss: 168.59282981157304
+Clip fraction: 0.018798828125
+Approximate KL Divergence: 0.0021292013116180897
+Loss: 35.21591567993164
+Clip range: 0.2
+Model updates: 690
+======================================================
+============= TIMESTEP N. 141312 =============
+Mean episode reward (rollout): 207.07251142999993
+Mean episode lenght (rollout): 279.71
+============================================
+Entropy loss: -0.7663630710914731
+Policy loss: -0.005348516590311192
+Value loss: 177.2452032327652
+Clip fraction: 0.069775390625
+Approximate KL Divergence: 0.006312032230198383
+Loss: 42.36775207519531
+Clip range: 0.2
+Model updates: 700
+======================================================
+============= TIMESTEP N. 143360 =============
+Mean episode reward (rollout): 214.33280270999995
+Mean episode lenght (rollout): 282.32
+============================================
+Entropy loss: -0.7606128687039018
+Policy loss: -0.00898689662135439
+Value loss: 48.80146107673645
+Clip fraction: 0.168359375
+Approximate KL Divergence: 0.010538182221353054
+Loss: 34.24144744873047
+Clip range: 0.2
+Model updates: 710
+======================================================
+============= TIMESTEP N. 145408 =============
+Mean episode reward (rollout): 219.42021835
+Mean episode lenght (rollout): 281.65
+============================================
+Entropy loss: -0.7065979193896055
+Policy loss: -0.0038705070008290933
+Value loss: 48.63402079641819
+Clip fraction: 0.11044921875
+Approximate KL Divergence: 0.013770891353487968
+Loss: 12.280287742614746
+Clip range: 0.2
+Model updates: 720
+======================================================
+============= TIMESTEP N. 147456 =============
+Mean episode reward (rollout): 223.22886814
+Mean episode lenght (rollout): 280.35
+============================================
+Entropy loss: -0.5826158165931702
+Policy loss: -0.010039009718457236
+Value loss: 179.98989856243134
+Clip fraction: 0.10380859375
+Approximate KL Divergence: 0.006379706785082817
+Loss: 66.15332794189453
+Clip range: 0.2
+Model updates: 730
+======================================================
+============= TIMESTEP N. 149504 =============
+Mean episode reward (rollout): 233.46433332
+Mean episode lenght (rollout): 279.86
+============================================
+Entropy loss: -0.5327295003458857
+Policy loss: -0.004091487971891183
+Value loss: 55.555453008413316
+Clip fraction: 0.067041015625
+Approximate KL Divergence: 0.01940196380019188
+Loss: 39.539642333984375
+Clip range: 0.2
+Model updates: 740
+======================================================
+============= TIMESTEP N. 151552 =============
+Mean episode reward (rollout): 233.66118225000002
+Mean episode lenght (rollout): 286.22
+============================================
+Entropy loss: -0.6059970615431667
+Policy loss: -0.003528560911945533
+Value loss: 132.01307127475738
+Clip fraction: 0.059423828125
+Approximate KL Divergence: 0.008785569109022617
+Loss: 113.63489532470703
+Clip range: 0.2
+Model updates: 750
+======================================================
+============= TIMESTEP N. 153600 =============
+Mean episode reward (rollout): 224.76599026999997
+Mean episode lenght (rollout): 276.45
+============================================
+Entropy loss: -0.5957298055291176
+Policy loss: -0.004797413319465704
+Value loss: 231.5029111266136
+Clip fraction: 0.043701171875
+Approximate KL Divergence: 0.006004117429256439
+Loss: 82.18167877197266
+Clip range: 0.2
+Model updates: 760
+======================================================
+============= TIMESTEP N. 155648 =============
+Mean episode reward (rollout): 224.16751647000004
+Mean episode lenght (rollout): 277.79
+============================================
+Entropy loss: -0.580471383035183
+Policy loss: -0.0017833437013905495
+Value loss: 118.08704293370246
+Clip fraction: 0.0140625
+Approximate KL Divergence: 0.002977660857141018
+Loss: 26.653104782104492
+Clip range: 0.2
+Model updates: 770
+======================================================
+============= TIMESTEP N. 157696 =============
+Mean episode reward (rollout): 224.27470920000005
+Mean episode lenght (rollout): 276.41
+============================================
+Entropy loss: -0.5937652529217303
+Policy loss: -0.002887729696522001
+Value loss: 258.2539724588394
+Clip fraction: 0.054296875
+Approximate KL Divergence: 0.008140677586197853
+Loss: 100.15345764160156
+Clip range: 0.2
+Model updates: 780
+======================================================
+============= TIMESTEP N. 159744 =============
+Mean episode reward (rollout): 222.31522404999998
+Mean episode lenght (rollout): 283.94
+============================================
+Entropy loss: -0.6439147794619202
+Policy loss: -0.003363015336799435
+Value loss: 167.1554033756256
+Clip fraction: 0.019140625
+Approximate KL Divergence: 0.0030586817301809788
+Loss: 43.34133529663086
+Clip range: 0.2
+Model updates: 790
+======================================================
+============= TIMESTEP N. 161792 =============
+Mean episode reward (rollout): 226.81745453
+Mean episode lenght (rollout): 277.2
+============================================
+Entropy loss: -0.5284991921857
+Policy loss: -0.002788864728063345
+Value loss: 131.21843910217285
+Clip fraction: 0.051513671875
+Approximate KL Divergence: 0.003127096686512232
+Loss: 111.63739013671875
+Clip range: 0.2
+Model updates: 800
+======================================================
+============= TIMESTEP N. 163840 =============
+Mean episode reward (rollout): 224.74379433000001
+Mean episode lenght (rollout): 272.94
+============================================
+Entropy loss: -0.5574413279071451
+Policy loss: -0.004494149412494153
+Value loss: 104.55317108035088
+Clip fraction: 0.04619140625
+Approximate KL Divergence: 0.004279077053070068
+Loss: 33.69950485229492
+Clip range: 0.2
+Model updates: 810
+======================================================
+============= TIMESTEP N. 165888 =============
+Mean episode reward (rollout): 224.55317407
+Mean episode lenght (rollout): 275.22
+============================================
+Entropy loss: -0.6873739698901773
+Policy loss: -0.004910537917749025
+Value loss: 326.11114213466647
+Clip fraction: 0.039013671875
+Approximate KL Divergence: 0.005456087179481983
+Loss: 156.02127075195312
+Clip range: 0.2
+Model updates: 820
+======================================================
+============= TIMESTEP N. 167936 =============
+Mean episode reward (rollout): 217.28503555000003
+Mean episode lenght (rollout): 262.95
+============================================
+Entropy loss: -0.5220837532542646
+Policy loss: -0.004657039376616013
+Value loss: 171.25553863048555
+Clip fraction: 0.02724609375
+Approximate KL Divergence: 0.0026980675756931305
+Loss: 63.027896881103516
+Clip range: 0.2
+Model updates: 830
+======================================================
+============= TIMESTEP N. 169984 =============
+Mean episode reward (rollout): 207.94894879
+Mean episode lenght (rollout): 252.32
+============================================
+Entropy loss: -0.541932268254459
+Policy loss: -0.0026230081624817104
+Value loss: 172.26461256742476
+Clip fraction: 0.02060546875
+Approximate KL Divergence: 0.00328979198820889
+Loss: 59.21221160888672
+Clip range: 0.2
+Model updates: 840
+======================================================
+============= TIMESTEP N. 172032 =============
+Mean episode reward (rollout): 206.74296890000002
+Mean episode lenght (rollout): 243.41
+============================================
+Entropy loss: -0.5682693168520927
+Policy loss: -0.0035625599703053012
+Value loss: 131.84610693454744
+Clip fraction: 0.024853515625
+Approximate KL Divergence: 0.003611019579693675
+Loss: 25.9265193939209
+Clip range: 0.2
+Model updates: 850
+======================================================
+============= TIMESTEP N. 174080 =============
+Mean episode reward (rollout): 200.56501059
+Mean episode lenght (rollout): 244.12
+============================================
+Entropy loss: -0.7337483871728182
+Policy loss: -0.007039909163722768
+Value loss: 171.63664815425872
+Clip fraction: 0.05390625
+Approximate KL Divergence: 0.005193126387894154
+Loss: 56.90839767456055
+Clip range: 0.2
+Model updates: 860
+======================================================
+============= TIMESTEP N. 176128 =============
+Mean episode reward (rollout): 208.18260257000003
+Mean episode lenght (rollout): 240.48
+============================================
+Entropy loss: -0.5478480789810419
+Policy loss: -0.002838745801273035
+Value loss: 45.49729998111725
+Clip fraction: 0.062353515625
+Approximate KL Divergence: 0.0051424941048026085
+Loss: 15.56016731262207
+Clip range: 0.2
+Model updates: 870
+======================================================
+============= TIMESTEP N. 178176 =============
+Mean episode reward (rollout): 212.42853346
+Mean episode lenght (rollout): 237.57
+============================================
+Entropy loss: -0.5416887920349837
+Policy loss: -0.0030021888625924474
+Value loss: 123.24613167643547
+Clip fraction: 0.02216796875
+Approximate KL Divergence: 0.003315359354019165
+Loss: 141.3969268798828
+Clip range: 0.2
+Model updates: 880
+======================================================
+============= TIMESTEP N. 180224 =============
+Mean episode reward (rollout): 212.42143712
+Mean episode lenght (rollout): 241.99
+============================================
+Entropy loss: -0.4606299692764878
+Policy loss: -0.0026264443586114794
+Value loss: 176.15025712251662
+Clip fraction: 0.01708984375
+Approximate KL Divergence: 0.002725786529481411
+Loss: 129.9457244873047
+Clip range: 0.2
+Model updates: 890
+======================================================
+============= TIMESTEP N. 182272 =============
+Mean episode reward (rollout): 211.96272831000002
+Mean episode lenght (rollout): 243.29
+============================================
+Entropy loss: -0.5193909955210984
+Policy loss: -0.0030057132404181174
+Value loss: 144.71122546792031
+Clip fraction: 0.045458984375
+Approximate KL Divergence: 0.004428358748555183
+Loss: 21.945173263549805
+Clip range: 0.2
+Model updates: 900
+======================================================
+============= TIMESTEP N. 184320 =============
+Mean episode reward (rollout): 211.91855323999997
+Mean episode lenght (rollout): 230.84
+============================================
+Entropy loss: -0.5335601815022528
+Policy loss: -0.002589762446586974
+Value loss: 95.30561246275902
+Clip fraction: 0.04521484375
+Approximate KL Divergence: 0.005484465509653091
+Loss: 22.414060592651367
+Clip range: 0.2
+Model updates: 910
+======================================================
+============= TIMESTEP N. 186368 =============
+Mean episode reward (rollout): 209.00288028
+Mean episode lenght (rollout): 234.09
+============================================
+Entropy loss: -0.6314851759001613
+Policy loss: -0.006074429233558476
+Value loss: 200.55002275705337
+Clip fraction: 0.057861328125
+Approximate KL Divergence: 0.004708803724497557
+Loss: 59.30281066894531
+Clip range: 0.2
+Model updates: 920
+======================================================
+============= TIMESTEP N. 188416 =============
+Mean episode reward (rollout): 215.78382697999993
+Mean episode lenght (rollout): 226.81
+============================================
+Entropy loss: -0.5516406533308327
+Policy loss: -0.004273421439575031
+Value loss: 51.58228315114975
+Clip fraction: 0.0341796875
+Approximate KL Divergence: 0.004369685426354408
+Loss: 22.750295639038086
+Clip range: 0.2
+Model updates: 930
+======================================================
+============= TIMESTEP N. 190464 =============
+Mean episode reward (rollout): 231.15211171
+Mean episode lenght (rollout): 226.6
+============================================
+Entropy loss: -0.5694381109438836
+Policy loss: -0.0010391284711658954
+Value loss: 83.97990855574608
+Clip fraction: 0.032861328125
+Approximate KL Divergence: 0.0031281011179089546
+Loss: 29.269067764282227
+Clip range: 0.2
+Model updates: 940
+======================================================
+============= TIMESTEP N. 192512 =============
+Mean episode reward (rollout): 236.16814424
+Mean episode lenght (rollout): 229.04
+============================================
+Entropy loss: -0.5494078428484499
+Policy loss: -0.0040380799837294035
+Value loss: 151.93486421108247
+Clip fraction: 0.032666015625
+Approximate KL Divergence: 0.0036350165028125048
+Loss: 72.2529067993164
+Clip range: 0.2
+Model updates: 950
+======================================================
+============= TIMESTEP N. 194560 =============
+Mean episode reward (rollout): 241.15460810000005
+Mean episode lenght (rollout): 230.32
+============================================
+Entropy loss: -0.5833883074112236
+Policy loss: -0.002177521414705552
+Value loss: 119.44481883943081
+Clip fraction: 0.051220703125
+Approximate KL Divergence: 0.0058852508664131165
+Loss: 15.544992446899414
+Clip range: 0.2
+Model updates: 960
+======================================================
+============= TIMESTEP N. 196608 =============
+Mean episode reward (rollout): 242.25792413000002
+Mean episode lenght (rollout): 218.53
+============================================
+Entropy loss: -0.5062404955737293
+Policy loss: -0.0010353493213187902
+Value loss: 132.71276092529297
+Clip fraction: 0.005712890625
+Approximate KL Divergence: 0.0013229699106886983
+Loss: 53.69282531738281
+Clip range: 0.2
+Model updates: 970
+======================================================
+============= TIMESTEP N. 198656 =============
+Mean episode reward (rollout): 233.17096853000004
+Mean episode lenght (rollout): 222.13
+============================================
+Entropy loss: -0.6627704188227653
+Policy loss: -0.0046163130609784275
+Value loss: 99.35169546604156
+Clip fraction: 0.043115234375
+Approximate KL Divergence: 0.005430337507277727
+Loss: 56.50910568237305
+Clip range: 0.2
+Model updates: 980
+======================================================
+============= TIMESTEP N. 200704 =============
+Mean episode reward (rollout): 232.74471078000002
+Mean episode lenght (rollout): 225.0
+============================================
+Entropy loss: -0.588251951802522
+Policy loss: -0.0025305246395873836
+Value loss: 104.46104593873024
+Clip fraction: 0.0154296875
+Approximate KL Divergence: 0.0018395963124930859
+Loss: 28.458866119384766
+Clip range: 0.2
+Model updates: 990
+======================================================
+============= TIMESTEP N. 202752 =============
+Mean episode reward (rollout): 232.46493997
+Mean episode lenght (rollout): 224.62
+============================================
+Entropy loss: -0.6678784996271133
+Policy loss: -0.005953988741384819
+Value loss: 53.160634216666224
+Clip fraction: 0.05947265625
+Approximate KL Divergence: 0.005365889053791761
+Loss: 9.10552978515625
+Clip range: 0.2
+Model updates: 1000
+======================================================
+============= TIMESTEP N. 204800 =============
+Mean episode reward (rollout): 238.47644225
+Mean episode lenght (rollout): 221.22
+============================================
+Entropy loss: -0.5452913796529174
+Policy loss: -0.004490963649004698
+Value loss: 36.07819575369358
+Clip fraction: 0.1005859375
+Approximate KL Divergence: 0.009060993790626526
+Loss: 11.279951095581055
+Clip range: 0.2
+Model updates: 1010
+======================================================
+============= TIMESTEP N. 206848 =============
+Mean episode reward (rollout): 231.11417437
+Mean episode lenght (rollout): 219.06
+============================================
+Entropy loss: -0.5779585391283035
+Policy loss: -0.004655431366700213
+Value loss: 407.90288524627687
+Clip fraction: 0.026220703125
+Approximate KL Divergence: 0.0036818422377109528
+Loss: 154.2998504638672
+Clip range: 0.2
+Model updates: 1020
+======================================================
+============= TIMESTEP N. 208896 =============
+Mean episode reward (rollout): 226.68220835000002
+Mean episode lenght (rollout): 213.23
+============================================
+Entropy loss: -0.5554342511110008
+Policy loss: -0.004039955779444426
+Value loss: 144.1688712954521
+Clip fraction: 0.04482421875
+Approximate KL Divergence: 0.006653204560279846
+Loss: 61.95957565307617
+Clip range: 0.2
+Model updates: 1030
+======================================================
+============= TIMESTEP N. 210944 =============
+Mean episode reward (rollout): 220.62145801
+Mean episode lenght (rollout): 213.25
+============================================
+Entropy loss: -0.5267596100457013
+Policy loss: -0.004467033625405748
+Value loss: 155.77026249170302
+Clip fraction: 0.030126953125
+Approximate KL Divergence: 0.0050882152281701565
+Loss: 33.69346618652344
+Clip range: 0.2
+Model updates: 1040
+======================================================
+============= TIMESTEP N. 212992 =============
+Mean episode reward (rollout): 218.09606621
+Mean episode lenght (rollout): 211.44
+============================================
+Entropy loss: -0.49242299534380435
+Policy loss: -0.004331136442488059
+Value loss: 239.02675001621247
+Clip fraction: 0.031787109375
+Approximate KL Divergence: 0.003464182373136282
+Loss: 44.60665512084961
+Clip range: 0.2
+Model updates: 1050
+======================================================
+============= TIMESTEP N. 215040 =============
+Mean episode reward (rollout): 219.89624758999997
+Mean episode lenght (rollout): 212.15
+============================================
+Entropy loss: -0.5931790573522449
+Policy loss: -0.0027108472771942616
+Value loss: 57.71738904118538
+Clip fraction: 0.06435546875
+Approximate KL Divergence: 0.005394448060542345
+Loss: 25.15840721130371
+Clip range: 0.2
+Model updates: 1060
+======================================================
+============= TIMESTEP N. 217088 =============
+Mean episode reward (rollout): 218.98170854
+Mean episode lenght (rollout): 212.12
+============================================
+Entropy loss: -0.4998814548365772
+Policy loss: -0.003813683186308481
+Value loss: 220.4756744623184
+Clip fraction: 0.01904296875
+Approximate KL Divergence: 0.0022386752534657717
+Loss: 44.61882400512695
+Clip range: 0.2
+Model updates: 1070
+======================================================
+============= TIMESTEP N. 219136 =============
+Mean episode reward (rollout): 216.8588082
+Mean episode lenght (rollout): 205.49
+============================================
+Entropy loss: -0.5415255945175886
+Policy loss: -0.002282864780863747
+Value loss: 226.68789973258973
+Clip fraction: 0.03583984375
+Approximate KL Divergence: 0.004229036159813404
+Loss: 141.88436889648438
+Clip range: 0.2
+Model updates: 1080
+======================================================
+============= TIMESTEP N. 221184 =============
+Mean episode reward (rollout): 224.63773456
+Mean episode lenght (rollout): 196.97
+============================================
+Entropy loss: -0.5117102682590484
+Policy loss: -0.002946145039459225
+Value loss: 144.4831908941269
+Clip fraction: 0.026953125
+Approximate KL Divergence: 0.0025817283894866705
+Loss: 110.6653060913086
+Clip range: 0.2
+Model updates: 1090
+======================================================
+============= TIMESTEP N. 223232 =============
+Mean episode reward (rollout): 220.87474959000002
+Mean episode lenght (rollout): 201.79
+============================================
+Entropy loss: -0.47981076706200837
+Policy loss: -0.004561514021770563
+Value loss: 182.17033925652504
+Clip fraction: 0.02236328125
+Approximate KL Divergence: 0.002410792512819171
+Loss: 86.5033950805664
+Clip range: 0.2
+Model updates: 1100
+======================================================
+============= TIMESTEP N. 225280 =============
+Mean episode reward (rollout): 220.33336219999993
+Mean episode lenght (rollout): 200.1
+============================================
+Entropy loss: -0.5155100278556347
+Policy loss: -0.003995326277799904
+Value loss: 167.2094954907894
+Clip fraction: 0.036572265625
+Approximate KL Divergence: 0.004573036916553974
+Loss: 22.362186431884766
+Clip range: 0.2
+Model updates: 1110
+======================================================
+============= TIMESTEP N. 227328 =============
+Mean episode reward (rollout): 222.8965825
+Mean episode lenght (rollout): 207.53
+============================================
+Entropy loss: -0.4729306768625975
+Policy loss: -0.001680642088467721
+Value loss: 51.431370821595195
+Clip fraction: 0.036572265625
+Approximate KL Divergence: 0.0027110965456813574
+Loss: 12.352547645568848
+Clip range: 0.2
+Model updates: 1120
+======================================================
+============= TIMESTEP N. 229376 =============
+Mean episode reward (rollout): 230.59070917
+Mean episode lenght (rollout): 214.57
+============================================
+Entropy loss: -0.6115115448832512
+Policy loss: -0.004847436101408675
+Value loss: 84.28910483121872
+Clip fraction: 0.023876953125
+Approximate KL Divergence: 0.003370129968971014
+Loss: 36.80167007446289
+Clip range: 0.2
+Model updates: 1130
+======================================================
+============= TIMESTEP N. 231424 =============
+Mean episode reward (rollout): 228.24930559
+Mean episode lenght (rollout): 225.44
+============================================
+Entropy loss: -0.6360359314829112
+Policy loss: -0.006577501774881966
+Value loss: 120.36446498632431
+Clip fraction: 0.05615234375
+Approximate KL Divergence: 0.008552515879273415
+Loss: 49.437889099121094
+Clip range: 0.2
+Model updates: 1140
+======================================================
+============= TIMESTEP N. 233472 =============
+Mean episode reward (rollout): 234.27049700000003
+Mean episode lenght (rollout): 222.45
+============================================
+Entropy loss: -0.5740862461738289
+Policy loss: -0.001104891492286697
+Value loss: 53.510306453704835
+Clip fraction: 0.052392578125
+Approximate KL Divergence: 0.004749630112200975
+Loss: 26.625770568847656
+Clip range: 0.2
+Model updates: 1150
+======================================================
+============= TIMESTEP N. 235520 =============
+Mean episode reward (rollout): 242.37685334000003
+Mean episode lenght (rollout): 221.72
+============================================
+Entropy loss: -0.5918470629490912
+Policy loss: -0.002722876481129788
+Value loss: 26.97804227769375
+Clip fraction: 0.058349609375
+Approximate KL Divergence: 0.006712307222187519
+Loss: 5.317364692687988
+Clip range: 0.2
+Model updates: 1160
+======================================================
+============= TIMESTEP N. 237568 =============
+Mean episode reward (rollout): 239.14996472
+Mean episode lenght (rollout): 218.29
+============================================
+Entropy loss: -0.5891760995611548
+Policy loss: -0.0091410110500874
+Value loss: 140.08205225169658
+Clip fraction: 0.08115234375
+Approximate KL Divergence: 0.004501315765082836
+Loss: 16.872411727905273
+Clip range: 0.2
+Model updates: 1170
+======================================================
+============= TIMESTEP N. 239616 =============
+Mean episode reward (rollout): 242.28936742999997
+Mean episode lenght (rollout): 216.64
+============================================
+Entropy loss: -0.5892717904411257
+Policy loss: -0.00347531141305808
+Value loss: 119.04867972135544
+Clip fraction: 0.031298828125
+Approximate KL Divergence: 0.005642825737595558
+Loss: 20.60089683532715
+Clip range: 0.2
+Model updates: 1180
+======================================================
+============= TIMESTEP N. 241664 =============
+Mean episode reward (rollout): 246.22088201
+Mean episode lenght (rollout): 219.25
+============================================
+Entropy loss: -0.5056710460223257
+Policy loss: -0.002164154032652732
+Value loss: 47.351361465454104
+Clip fraction: 0.028271484375
+Approximate KL Divergence: 0.002899045590311289
+Loss: 20.470788955688477
+Clip range: 0.2
+Model updates: 1190
+======================================================
+============= TIMESTEP N. 243712 =============
+Mean episode reward (rollout): 249.89520440999996
+Mean episode lenght (rollout): 215.52
+============================================
+Entropy loss: -0.47458886429667474
+Policy loss: -0.0011502694294904358
+Value loss: 73.24106854796409
+Clip fraction: 0.025341796875
+Approximate KL Divergence: 0.0030139232985675335
+Loss: 28.704679489135742
+Clip range: 0.2
+Model updates: 1200
+======================================================
+============= TIMESTEP N. 245760 =============
+Mean episode reward (rollout): 251.57169826999998
+Mean episode lenght (rollout): 216.47
+============================================
+Entropy loss: -0.5433508491143584
+Policy loss: -0.0020874337147688492
+Value loss: 130.6489703834057
+Clip fraction: 0.00986328125
+Approximate KL Divergence: 0.002269888296723366
+Loss: 73.30986785888672
+Clip range: 0.2
+Model updates: 1210
+======================================================
+============= TIMESTEP N. 247808 =============
+Mean episode reward (rollout): 250.16412126
+Mean episode lenght (rollout): 214.47
+============================================
+Entropy loss: -0.5536652894690632
+Policy loss: -0.0018459802624420263
+Value loss: 140.87574250102043
+Clip fraction: 0.026123046875
+Approximate KL Divergence: 0.0035165634471923113
+Loss: 13.98730182647705
+Clip range: 0.2
+Model updates: 1220
+======================================================
+============= TIMESTEP N. 249856 =============
+Mean episode reward (rollout): 240.54618248999998
+Mean episode lenght (rollout): 215.46
+============================================
+Entropy loss: -0.6200554173439741
+Policy loss: -0.0033044083043932914
+Value loss: 139.87205975055696
+Clip fraction: 0.0177734375
+Approximate KL Divergence: 0.0018695266917347908
+Loss: 67.48357391357422
+Clip range: 0.2
+Model updates: 1230
+======================================================
+============= TIMESTEP N. 251904 =============
+Mean episode reward (rollout): 241.46381299
+Mean episode lenght (rollout): 198.73
+============================================
+Entropy loss: -0.4889655843377113
+Policy loss: -0.0024249176029115917
+Value loss: 166.61272178888322
+Clip fraction: 0.03828125
+Approximate KL Divergence: 0.005778844468295574
+Loss: 124.60549926757812
+Clip range: 0.2
+Model updates: 1240
+======================================================
+============= TIMESTEP N. 253952 =============
+Mean episode reward (rollout): 233.90956542
+Mean episode lenght (rollout): 204.05
+============================================
+Entropy loss: -0.6018555451184511
+Policy loss: -0.001962481273221783
+Value loss: 105.1378835707903
+Clip fraction: 0.041064453125
+Approximate KL Divergence: 0.003332193475216627
+Loss: 13.985193252563477
+Clip range: 0.2
+Model updates: 1250
+======================================================
+============= TIMESTEP N. 256000 =============
+Mean episode reward (rollout): 226.71210705000004
+Mean episode lenght (rollout): 204.65
+============================================
+Entropy loss: -0.5743027182295919
+Policy loss: -0.0014891228667693213
+Value loss: 88.40677263140678
+Clip fraction: 0.029248046875
+Approximate KL Divergence: 0.0034392131492495537
+Loss: 33.88374710083008
+Clip range: 0.2
+Model updates: 1260
+======================================================
+============= TIMESTEP N. 258048 =============
+Mean episode reward (rollout): 221.05976612000003
+Mean episode lenght (rollout): 202.91
+============================================
+Entropy loss: -0.4940598910674453
+Policy loss: -0.005349728677538223
+Value loss: 251.84936896562576
+Clip fraction: 0.028515625
+Approximate KL Divergence: 0.0033984908368438482
+Loss: 70.59223175048828
+Clip range: 0.2
+Model updates: 1270
+======================================================
+============= TIMESTEP N. 260096 =============
+Mean episode reward (rollout): 223.08410882000004
+Mean episode lenght (rollout): 207.21
+============================================
+Entropy loss: -0.5885193483904004
+Policy loss: -0.0017559720174176619
+Value loss: 123.6138081073761
+Clip fraction: 0.023046875
+Approximate KL Divergence: 0.004087493289262056
+Loss: 27.256607055664062
+Clip range: 0.2
+Model updates: 1280
+======================================================
+============= TIMESTEP N. 262144 =============
+Mean episode reward (rollout): 222.39164302999998
+Mean episode lenght (rollout): 223.31
+============================================
+Entropy loss: -0.5585267368704081
+Policy loss: -0.00384133181796642
+Value loss: 53.88759134411812
+Clip fraction: 0.0412109375
+Approximate KL Divergence: 0.0039819469675421715
+Loss: 20.84604835510254
+Clip range: 0.2
+Model updates: 1290
+======================================================
+============= TIMESTEP N. 264192 =============
+Mean episode reward (rollout): 222.36376019000002
+Mean episode lenght (rollout): 226.99
+============================================
+Entropy loss: -0.4602198415435851
+Policy loss: -0.002055694305454381
+Value loss: 221.3865201354027
+Clip fraction: 0.016015625
+Approximate KL Divergence: 0.0024501201696693897
+Loss: 226.5236358642578
+Clip range: 0.2
+Model updates: 1300
+======================================================
+============= TIMESTEP N. 266240 =============
+Mean episode reward (rollout): 215.40062147
+Mean episode lenght (rollout): 231.06
+============================================
+Entropy loss: -0.5536355963908136
+Policy loss: -0.001742040560930036
+Value loss: 272.5226496934891
+Clip fraction: 0.00966796875
+Approximate KL Divergence: 0.0025928858667612076
+Loss: 40.67246627807617
+Clip range: 0.2
+Model updates: 1310
+======================================================
+============= TIMESTEP N. 268288 =============
+Mean episode reward (rollout): 206.86659342
+Mean episode lenght (rollout): 233.55
+============================================
+Entropy loss: -0.5587867088615894
+Policy loss: -0.0013382256904151291
+Value loss: 260.1575744152069
+Clip fraction: 0.02646484375
+Approximate KL Divergence: 0.0028787078335881233
+Loss: 63.44084930419922
+Clip range: 0.2
+Model updates: 1320
+======================================================
+============= TIMESTEP N. 270336 =============
+Mean episode reward (rollout): 206.83629481
+Mean episode lenght (rollout): 233.31
+============================================
+Entropy loss: -0.5484878205694258
+Policy loss: -0.0026223386797937565
+Value loss: 139.56398688554765
+Clip fraction: 0.063427734375
+Approximate KL Divergence: 0.005318137817084789
+Loss: 47.064945220947266
+Clip range: 0.2
+Model updates: 1330
+======================================================
+============= TIMESTEP N. 272384 =============
+Mean episode reward (rollout): 200.51408375
+Mean episode lenght (rollout): 232.94
+============================================
+Entropy loss: -0.5597093953751028
+Policy loss: -0.006476552432286553
+Value loss: 242.14470187425613
+Clip fraction: 0.01884765625
+Approximate KL Divergence: 0.0020944192074239254
+Loss: 27.516504287719727
+Clip range: 0.2
+Model updates: 1340
+======================================================
+============= TIMESTEP N. 274432 =============
+Mean episode reward (rollout): 197.34357444999998
+Mean episode lenght (rollout): 231.74
+============================================
+Entropy loss: -0.506655100826174
+Policy loss: -0.0012354171223705635
+Value loss: 117.64758859276772
+Clip fraction: 0.01806640625
+Approximate KL Divergence: 0.0034143547527492046
+Loss: 50.840145111083984
+Clip range: 0.2
+Model updates: 1350
+======================================================
+============= TIMESTEP N. 276480 =============
+Mean episode reward (rollout): 185.55436968
+Mean episode lenght (rollout): 225.0
+============================================
+Entropy loss: -0.5648560878820718
+Policy loss: -0.0046505032107234
+Value loss: 356.04678523540497
+Clip fraction: 0.04873046875
+Approximate KL Divergence: 0.004832825157791376
+Loss: 153.95706176757812
+Clip range: 0.2
+Model updates: 1360
+======================================================
+============= TIMESTEP N. 278528 =============
+Mean episode reward (rollout): 184.52891356
+Mean episode lenght (rollout): 224.94
+============================================
+Entropy loss: -0.5565911774523556
+Policy loss: -0.001851802183955442
+Value loss: 194.2449768781662
+Clip fraction: 0.008935546875
+Approximate KL Divergence: 0.0021018777042627335
+Loss: 41.39016342163086
+Clip range: 0.2
+Model updates: 1370
+======================================================
+============= TIMESTEP N. 280576 =============
+Mean episode reward (rollout): 188.37302851999993
+Mean episode lenght (rollout): 227.29
+============================================
+Entropy loss: -0.5290391992777586
+Policy loss: -0.0014731787159689702
+Value loss: 165.4488180041313
+Clip fraction: 0.0142578125
+Approximate KL Divergence: 0.0013632683549076319
+Loss: 100.63374328613281
+Clip range: 0.2
+Model updates: 1380
+======================================================
+============= TIMESTEP N. 282624 =============
+Mean episode reward (rollout): 183.99670063999997
+Mean episode lenght (rollout): 239.22
+============================================
+Entropy loss: -0.5993264064192771
+Policy loss: -0.003843529302685056
+Value loss: 40.33775513470173
+Clip fraction: 0.0482421875
+Approximate KL Divergence: 0.0055374703370034695
+Loss: 12.214555740356445
+Clip range: 0.2
+Model updates: 1390
+======================================================
+============= TIMESTEP N. 284672 =============
+Mean episode reward (rollout): 185.76755987999994
+Mean episode lenght (rollout): 236.81
+============================================
+Entropy loss: -0.5465155301615596
+Policy loss: -0.002602749620564282
+Value loss: 156.66273723840715
+Clip fraction: 0.0119140625
+Approximate KL Divergence: 0.0027963565662503242
+Loss: 26.738595962524414
+Clip range: 0.2
+Model updates: 1400
+======================================================
+============= TIMESTEP N. 286720 =============
+Mean episode reward (rollout): 182.94453914999997
+Mean episode lenght (rollout): 239.22
+============================================
+Entropy loss: -0.5714446336962282
+Policy loss: -0.004465567557781469
+Value loss: 53.30453580617905
+Clip fraction: 0.0642578125
+Approximate KL Divergence: 0.005004911683499813
+Loss: 12.749210357666016
+Clip range: 0.2
+Model updates: 1410
+======================================================
+============= TIMESTEP N. 288768 =============
+Mean episode reward (rollout): 186.06275933
+Mean episode lenght (rollout): 231.91
+============================================
+Entropy loss: -0.5638890830799937
+Policy loss: -0.00150504702469334
+Value loss: 206.0333331823349
+Clip fraction: 0.02333984375
+Approximate KL Divergence: 0.002615299541503191
+Loss: 67.59515380859375
+Clip range: 0.2
+Model updates: 1420
+======================================================
+============= TIMESTEP N. 290816 =============
+Mean episode reward (rollout): 179.56226487999996
+Mean episode lenght (rollout): 234.23
+============================================
+Entropy loss: -0.6048978380858898
+Policy loss: -0.002259409909311216
+Value loss: 125.98488075733185
+Clip fraction: 0.030078125
+Approximate KL Divergence: 0.003025256795808673
+Loss: 31.155710220336914
+Clip range: 0.2
+Model updates: 1430
+======================================================
+============= TIMESTEP N. 292864 =============
+Mean episode reward (rollout): 186.42070103999998
+Mean episode lenght (rollout): 233.26
+============================================
+Entropy loss: -0.6074995022267103
+Policy loss: -0.001984672858088743
+Value loss: 89.66250740289688
+Clip fraction: 0.047119140625
+Approximate KL Divergence: 0.0037109930999577045
+Loss: 46.082542419433594
+Clip range: 0.2
+Model updates: 1440
+======================================================
+============= TIMESTEP N. 294912 =============
+Mean episode reward (rollout): 195.67167144000004
+Mean episode lenght (rollout): 229.79
+============================================
+Entropy loss: -0.5086612677201628
+Policy loss: -0.003022203527507372
+Value loss: 139.76190350055694
+Clip fraction: 0.021044921875
+Approximate KL Divergence: 0.0021942583844065666
+Loss: 120.48527526855469
+Clip range: 0.2
+Model updates: 1450
+======================================================
+============= TIMESTEP N. 296960 =============
+Mean episode reward (rollout): 202.56903743000004
+Mean episode lenght (rollout): 232.61
+============================================
+Entropy loss: -0.538128312304616
+Policy loss: -0.00392316049837973
+Value loss: 104.21891716718673
+Clip fraction: 0.047900390625
+Approximate KL Divergence: 0.003427936462685466
+Loss: 26.33633804321289
+Clip range: 0.2
+Model updates: 1460
+======================================================
+============= TIMESTEP N. 299008 =============
+Mean episode reward (rollout): 208.43284578000004
+Mean episode lenght (rollout): 240.03
+============================================
+Entropy loss: -0.5685278874821961
+Policy loss: -0.0053852632212510795
+Value loss: 73.74746347367764
+Clip fraction: 0.047265625
+Approximate KL Divergence: 0.0055491188541054726
+Loss: 19.29418182373047
+Clip range: 0.2
+Model updates: 1470
+======================================================
+============= TIMESTEP N. 301056 =============
+Mean episode reward (rollout): 221.84684599
+Mean episode lenght (rollout): 244.82
+============================================
+Entropy loss: -0.5130514496006071
+Policy loss: -0.00476021682843566
+Value loss: 36.23745333850384
+Clip fraction: 0.0412109375
+Approximate KL Divergence: 0.004922757390886545
+Loss: 21.933650970458984
+Clip range: 0.2
+Model updates: 1480
+======================================================
+============= TIMESTEP N. 303104 =============
+Mean episode reward (rollout): 231.87251830000002
+Mean episode lenght (rollout): 245.5
+============================================
+Entropy loss: -0.5703443190082907
+Policy loss: -0.003122035581327509
+Value loss: 25.524022874236106
+Clip fraction: 0.055126953125
+Approximate KL Divergence: 0.004473766312003136
+Loss: 7.800968170166016
+Clip range: 0.2
+Model updates: 1490
+======================================================
+============= TIMESTEP N. 305152 =============
+Mean episode reward (rollout): 232.73877613999997
+Mean episode lenght (rollout): 235.82
+============================================
+Entropy loss: -0.6430226340889931
+Policy loss: -0.001226542130461894
+Value loss: 131.45474483370782
+Clip fraction: 0.021826171875
+Approximate KL Divergence: 0.0028106276877224445
+Loss: 115.98853302001953
+Clip range: 0.2
+Model updates: 1500
+======================================================
+============= TIMESTEP N. 307200 =============
+Mean episode reward (rollout): 232.82951009
+Mean episode lenght (rollout): 221.05
+============================================
+Entropy loss: -0.618199848383665
+Policy loss: -0.002830670538241975
+Value loss: 167.72726843357086
+Clip fraction: 0.060546875
+Approximate KL Divergence: 0.0061757517978549
+Loss: 40.46253967285156
+Clip range: 0.2
+Model updates: 1510
+======================================================
+============= TIMESTEP N. 309248 =============
+Mean episode reward (rollout): 235.51418447999995
+Mean episode lenght (rollout): 219.56
+============================================
+Entropy loss: -0.5268300779163837
+Policy loss: -0.0038619075479800814
+Value loss: 87.34746103286743
+Clip fraction: 0.0236328125
+Approximate KL Divergence: 0.0036323927342891693
+Loss: 74.6912841796875
+Clip range: 0.2
+Model updates: 1520
+======================================================
+============= TIMESTEP N. 311296 =============
+Mean episode reward (rollout): 232.71733741
+Mean episode lenght (rollout): 230.09
+============================================
+Entropy loss: -0.4009478332474828
+Policy loss: -0.0017377965763444082
+Value loss: 65.42336211502553
+Clip fraction: 0.019970703125
+Approximate KL Divergence: 0.0018360218964517117
+Loss: 22.05556297302246
+Clip range: 0.2
+Model updates: 1530
+======================================================
+============= TIMESTEP N. 313344 =============
+Mean episode reward (rollout): 242.79533761
+Mean episode lenght (rollout): 228.19
+============================================
+Entropy loss: -0.5932747881859541
+Policy loss: -0.002203858399298042
+Value loss: 44.95169647336006
+Clip fraction: 0.05166015625
+Approximate KL Divergence: 0.004397774580866098
+Loss: 30.873300552368164
+Clip range: 0.2
+Model updates: 1540
+======================================================
+============= TIMESTEP N. 315392 =============
+Mean episode reward (rollout): 243.36182396999996
+Mean episode lenght (rollout): 222.82
+============================================
+Entropy loss: -0.5542431974783539
+Policy loss: -0.002745961658365559
+Value loss: 63.224331873655316
+Clip fraction: 0.015478515625
+Approximate KL Divergence: 0.0012496786657720804
+Loss: 20.02222442626953
+Clip range: 0.2
+Model updates: 1550
+======================================================
+============= TIMESTEP N. 317440 =============
+Mean episode reward (rollout): 243.88706290000005
+Mean episode lenght (rollout): 224.27
+============================================
+Entropy loss: -0.5325158168561757
+Policy loss: -0.002321857631613966
+Value loss: 242.801085293293
+Clip fraction: 0.011376953125
+Approximate KL Divergence: 0.0025590250734239817
+Loss: 57.19832992553711
+Clip range: 0.2
+Model updates: 1560
+======================================================
+============= TIMESTEP N. 319488 =============
+Mean episode reward (rollout): 241.75931917999998
+Mean episode lenght (rollout): 235.45
+============================================
+Entropy loss: -0.5971950341947376
+Policy loss: -0.004735862463712692
+Value loss: 60.88473800420761
+Clip fraction: 0.06435546875
+Approximate KL Divergence: 0.0039509618654847145
+Loss: 11.991968154907227
+Clip range: 0.2
+Model updates: 1570
+======================================================
+============= TIMESTEP N. 321536 =============
+Mean episode reward (rollout): 234.23669801000008
+Mean episode lenght (rollout): 228.77
+============================================
+Entropy loss: -0.5834668561816215
+Policy loss: -0.0022874780028359965
+Value loss: 142.96376264095306
+Clip fraction: 0.006689453125
+Approximate KL Divergence: 0.0013832403346896172
+Loss: 36.047401428222656
+Clip range: 0.2
+Model updates: 1580
+======================================================
+============= TIMESTEP N. 323584 =============
+Mean episode reward (rollout): 228.36834249999995
+Mean episode lenght (rollout): 230.56
+============================================
+Entropy loss: -0.5105360555462539
+Policy loss: -0.0022705837560351937
+Value loss: 232.15950739383698
+Clip fraction: 0.01904296875
+Approximate KL Divergence: 0.003127617761492729
+Loss: 114.90717315673828
+Clip range: 0.2
+Model updates: 1590
+======================================================
+============= TIMESTEP N. 325632 =============
+Mean episode reward (rollout): 226.38150115
+Mean episode lenght (rollout): 237.06
+============================================
+Entropy loss: -0.503503804653883
+Policy loss: -0.0026117030283785425
+Value loss: 126.92822177410126
+Clip fraction: 0.022265625
+Approximate KL Divergence: 0.003344535129144788
+Loss: 73.13890075683594
+Clip range: 0.2
+Model updates: 1600
+======================================================
+============= TIMESTEP N. 327680 =============
+Mean episode reward (rollout): 223.34218721999997
+Mean episode lenght (rollout): 240.46
+============================================
+Entropy loss: -0.5817254195921123
+Policy loss: -0.0029650597367435693
+Value loss: 50.09026172757149
+Clip fraction: 0.014892578125
+Approximate KL Divergence: 0.0018524312181398273
+Loss: 5.958779335021973
+Clip range: 0.2
+Model updates: 1610
+======================================================
+============= TIMESTEP N. 329728 =============
+Mean episode reward (rollout): 224.54725243000004
+Mean episode lenght (rollout): 246.56
+============================================
+Entropy loss: -0.5709957029670477
+Policy loss: -0.003218500321963802
+Value loss: 38.650542923808096
+Clip fraction: 0.02919921875
+Approximate KL Divergence: 0.0034078084863722324
+Loss: 18.290706634521484
+Clip range: 0.2
+Model updates: 1620
+======================================================
+============= TIMESTEP N. 331776 =============
+Mean episode reward (rollout): 222.24514552
+Mean episode lenght (rollout): 246.59
+============================================
+Entropy loss: -0.6512826835736633
+Policy loss: -0.001655091483553406
+Value loss: 86.15443048477172
+Clip fraction: 0.0091796875
+Approximate KL Divergence: 0.0021264110691845417
+Loss: 22.617944717407227
+Clip range: 0.2
+Model updates: 1630
+======================================================
+============= TIMESTEP N. 333824 =============
+Mean episode reward (rollout): 220.77680325999998
+Mean episode lenght (rollout): 230.67
+============================================
+Entropy loss: -0.6422009645029902
+Policy loss: -0.0008097165773506276
+Value loss: 106.81631838679314
+Clip fraction: 0.017822265625
+Approximate KL Divergence: 0.0009721758542582393
+Loss: 29.629974365234375
+Clip range: 0.2
+Model updates: 1640
+======================================================
+============= TIMESTEP N. 335872 =============
+Mean episode reward (rollout): 220.76828212
+Mean episode lenght (rollout): 227.34
+============================================
+Entropy loss: -0.55453747138381
+Policy loss: -0.0038378881290555
+Value loss: 40.13524461388588
+Clip fraction: 0.051513671875
+Approximate KL Divergence: 0.0029470776207745075
+Loss: 15.832021713256836
+Clip range: 0.2
+Model updates: 1650
+======================================================
+============= TIMESTEP N. 337920 =============
+Mean episode reward (rollout): 218.00351128999998
+Mean episode lenght (rollout): 230.26
+============================================
+Entropy loss: -0.6224996091797947
+Policy loss: -0.0010223668592516332
+Value loss: 181.4545630812645
+Clip fraction: 0.016796875
+Approximate KL Divergence: 0.00221321452409029
+Loss: 26.4803524017334
+Clip range: 0.2
+Model updates: 1660
+======================================================
+============= TIMESTEP N. 339968 =============
+Mean episode reward (rollout): 220.27960520000005
+Mean episode lenght (rollout): 233.71
+============================================
+Entropy loss: -0.49459063494578004
+Policy loss: -0.0021833767139469275
+Value loss: 93.67713240981102
+Clip fraction: 0.01455078125
+Approximate KL Divergence: 0.0017067380249500275
+Loss: 42.46244430541992
+Clip range: 0.2
+Model updates: 1670
+======================================================
+============= TIMESTEP N. 342016 =============
+Mean episode reward (rollout): 224.69009438
+Mean episode lenght (rollout): 215.8
+============================================
+Entropy loss: -0.5919747401960194
+Policy loss: -0.0009104232711251825
+Value loss: 120.4880263209343
+Clip fraction: 0.0310546875
+Approximate KL Divergence: 0.0036745655816048384
+Loss: 12.014985084533691
+Clip range: 0.2
+Model updates: 1680
+======================================================
+============= TIMESTEP N. 344064 =============
+Mean episode reward (rollout): 231.61921665999998
+Mean episode lenght (rollout): 217.88
+============================================
+Entropy loss: -0.5484233884140849
+Policy loss: -0.0009168830118142068
+Value loss: 104.99688500761985
+Clip fraction: 0.0080078125
+Approximate KL Divergence: 0.0016486241947859526
+Loss: 25.926172256469727
+Clip range: 0.2
+Model updates: 1690
+======================================================
+============= TIMESTEP N. 346112 =============
+Mean episode reward (rollout): 235.43850214999998
+Mean episode lenght (rollout): 210.15
+============================================
+Entropy loss: -0.5349236439913512
+Policy loss: -0.00027709571877494455
+Value loss: 84.73817526102066
+Clip fraction: 0.03447265625
+Approximate KL Divergence: 0.0032833353616297245
+Loss: 32.3192024230957
+Clip range: 0.2
+Model updates: 1700
+======================================================
+============= TIMESTEP N. 348160 =============
+Mean episode reward (rollout): 235.83538118000004
+Mean episode lenght (rollout): 206.66
+============================================
+Entropy loss: -0.5989645230583847
+Policy loss: -0.0017385168917826376
+Value loss: 142.98219985961913
+Clip fraction: 0.0595703125
+Approximate KL Divergence: 0.003982063382863998
+Loss: 13.238931655883789
+Clip range: 0.2
+Model updates: 1710
+======================================================
+============= TIMESTEP N. 350208 =============
+Mean episode reward (rollout): 231.27712404
+Mean episode lenght (rollout): 199.41
+============================================
+Entropy loss: -0.5328968403860926
+Policy loss: -0.0021407795808045193
+Value loss: 168.95891177654266
+Clip fraction: 0.01513671875
+Approximate KL Divergence: 0.0022897697053849697
+Loss: 46.430702209472656
+Clip range: 0.2
+Model updates: 1720
+======================================================
+============= TIMESTEP N. 352256 =============
+Mean episode reward (rollout): 233.98711870999995
+Mean episode lenght (rollout): 202.35
+============================================
+Entropy loss: -0.594165979232639
+Policy loss: -0.0011498736072098835
+Value loss: 181.15854425430297
+Clip fraction: 0.01484375
+Approximate KL Divergence: 0.0025235957000404596
+Loss: 36.615848541259766
+Clip range: 0.2
+Model updates: 1730
+======================================================
+============= TIMESTEP N. 354304 =============
+Mean episode reward (rollout): 232.40258214000002
+Mean episode lenght (rollout): 201.68
+============================================
+Entropy loss: -0.5412121878936886
+Policy loss: -0.0028774903999874367
+Value loss: 218.58840916156768
+Clip fraction: 0.03564453125
+Approximate KL Divergence: 0.004591166041791439
+Loss: 119.11100006103516
+Clip range: 0.2
+Model updates: 1740
+======================================================
+============= TIMESTEP N. 356352 =============
+Mean episode reward (rollout): 232.38703153000003
+Mean episode lenght (rollout): 212.53
+============================================
+Entropy loss: -0.5578221311792732
+Policy loss: -0.0026456016712472774
+Value loss: 75.83793724477292
+Clip fraction: 0.067333984375
+Approximate KL Divergence: 0.004415377043187618
+Loss: 26.22062873840332
+Clip range: 0.2
+Model updates: 1750
+======================================================
+============= TIMESTEP N. 358400 =============
+Mean episode reward (rollout): 234.0532997
+Mean episode lenght (rollout): 213.34
+============================================
+Entropy loss: -0.5875123228877783
+Policy loss: -0.0023552765953354536
+Value loss: 35.83839040696621
+Clip fraction: 0.049267578125
+Approximate KL Divergence: 0.005524340085685253
+Loss: 19.277957916259766
+Clip range: 0.2
+Model updates: 1760
+======================================================
+============= TIMESTEP N. 360448 =============
+Mean episode reward (rollout): 231.49053537
+Mean episode lenght (rollout): 217.45
+============================================
+Entropy loss: -0.5915217051282525
+Policy loss: -0.0021546280942857264
+Value loss: 77.59815187007189
+Clip fraction: 0.05751953125
+Approximate KL Divergence: 0.009688923135399818
+Loss: 58.222511291503906
+Clip range: 0.2
+Model updates: 1770
+======================================================
+============= TIMESTEP N. 362496 =============
+Mean episode reward (rollout): 223.89011259000003
+Mean episode lenght (rollout): 216.44
+============================================
+Entropy loss: -0.6035310283303261
+Policy loss: -0.0012218868563650177
+Value loss: 289.14424191713334
+Clip fraction: 0.033935546875
+Approximate KL Divergence: 0.003104411531239748
+Loss: 143.24765014648438
+Clip range: 0.2
+Model updates: 1780
+======================================================
+============= TIMESTEP N. 364544 =============
+Mean episode reward (rollout): 221.92070336999998
+Mean episode lenght (rollout): 231.85
+============================================
+Entropy loss: -0.5508953205309808
+Policy loss: -0.002107132293167524
+Value loss: 110.40958526134492
+Clip fraction: 0.009033203125
+Approximate KL Divergence: 0.0035863835364580154
+Loss: 40.935760498046875
+Clip range: 0.2
+Model updates: 1790
+======================================================
+============= TIMESTEP N. 366592 =============
+Mean episode reward (rollout): 223.34230018000002
+Mean episode lenght (rollout): 235.57
+============================================
+Entropy loss: -0.5815070570446551
+Policy loss: -0.0032867473200894892
+Value loss: 90.42983578443527
+Clip fraction: 0.05517578125
+Approximate KL Divergence: 0.006073257885873318
+Loss: 36.84077453613281
+Clip range: 0.2
+Model updates: 1800
+======================================================
+============= TIMESTEP N. 368640 =============
+Mean episode reward (rollout): 220.10660338999998
+Mean episode lenght (rollout): 246.12
+============================================
+Entropy loss: -0.5583510153926909
+Policy loss: -0.0038053223746828736
+Value loss: 103.72845084071159
+Clip fraction: 0.048779296875
+Approximate KL Divergence: 0.007411187514662743
+Loss: 41.31515884399414
+Clip range: 0.2
+Model updates: 1810
+======================================================
+============= TIMESTEP N. 370688 =============
+Mean episode reward (rollout): 217.06192814999997
+Mean episode lenght (rollout): 246.36
+============================================
+Entropy loss: -0.6154860000126063
+Policy loss: -0.0039550218774820674
+Value loss: 161.62752290964127
+Clip fraction: 0.05029296875
+Approximate KL Divergence: 0.005544641055166721
+Loss: 37.11833572387695
+Clip range: 0.2
+Model updates: 1820
+======================================================
+============= TIMESTEP N. 372736 =============
+Mean episode reward (rollout): 217.70209233000006
+Mean episode lenght (rollout): 247.54
+============================================
+Entropy loss: -0.5568829265423119
+Policy loss: -0.0036186085853842087
+Value loss: 83.16564561724662
+Clip fraction: 0.043212890625
+Approximate KL Divergence: 0.00443384051322937
+Loss: 16.07253074645996
+Clip range: 0.2
+Model updates: 1830
+======================================================
+============= TIMESTEP N. 374784 =============
+Mean episode reward (rollout): 219.13842160000002
+Mean episode lenght (rollout): 251.05
+============================================
+Entropy loss: -0.5482171489857137
+Policy loss: -0.0008897582185454667
+Value loss: 88.31421691179276
+Clip fraction: 0.01083984375
+Approximate KL Divergence: 0.002867963630706072
+Loss: 17.47027015686035
+Clip range: 0.2
+Model updates: 1840
+======================================================
+============= TIMESTEP N. 376832 =============
+Mean episode reward (rollout): 220.63701972
+Mean episode lenght (rollout): 252.71
+============================================
+Entropy loss: -0.530268317181617
+Policy loss: -0.00252828482480254
+Value loss: 166.36030941009523
+Clip fraction: 0.030126953125
+Approximate KL Divergence: 0.003556155599653721
+Loss: 23.68838119506836
+Clip range: 0.2
+Model updates: 1850
+======================================================
+============= TIMESTEP N. 378880 =============
+Mean episode reward (rollout): 224.66575959
+Mean episode lenght (rollout): 261.83
+============================================
+Entropy loss: -0.5797874917276203
+Policy loss: -0.0011166330019477754
+Value loss: 19.34470923244953
+Clip fraction: 0.0369140625
+Approximate KL Divergence: 0.0051844012923538685
+Loss: 9.219718933105469
+Clip range: 0.2
+Model updates: 1860
+======================================================
+============= TIMESTEP N. 380928 =============
+Mean episode reward (rollout): 229.1374424
+Mean episode lenght (rollout): 261.12
+============================================
+Entropy loss: -0.5987762227654457
+Policy loss: -0.0032328760222299024
+Value loss: 21.926192623376846
+Clip fraction: 0.0314453125
+Approximate KL Divergence: 0.00236060144379735
+Loss: 9.574609756469727
+Clip range: 0.2
+Model updates: 1870
+======================================================
+============= TIMESTEP N. 382976 =============
+Mean episode reward (rollout): 226.95339112
+Mean episode lenght (rollout): 247.71
+============================================
+Entropy loss: -0.5383574386127293
+Policy loss: -0.0036399425589479506
+Value loss: 92.02054118216037
+Clip fraction: 0.04345703125
+Approximate KL Divergence: 0.004256029613316059
+Loss: 37.68522644042969
+Clip range: 0.2
+Model updates: 1880
+======================================================
+============= TIMESTEP N. 385024 =============
+Mean episode reward (rollout): 227.67095621999997
+Mean episode lenght (rollout): 242.56
+============================================
+Entropy loss: -0.6153490102849901
+Policy loss: -0.002873214797000401
+Value loss: 139.59993373155595
+Clip fraction: 0.030517578125
+Approximate KL Divergence: 0.0022800317965447903
+Loss: 15.709850311279297
+Clip range: 0.2
+Model updates: 1890
+======================================================
+============= TIMESTEP N. 387072 =============
+Mean episode reward (rollout): 241.06968892999998
+Mean episode lenght (rollout): 225.73
+============================================
+Entropy loss: -0.5765690820291638
+Policy loss: -0.0025396128752618098
+Value loss: 137.0208307683468
+Clip fraction: 0.0078125
+Approximate KL Divergence: 0.0012331678299233317
+Loss: 56.485530853271484
+Clip range: 0.2
+Model updates: 1900
+======================================================
+============= TIMESTEP N. 389120 =============
+Mean episode reward (rollout): 242.17513857000003
+Mean episode lenght (rollout): 232.59
+============================================
+Entropy loss: -0.5908989284187556
+Policy loss: -0.0012668952913372777
+Value loss: 71.94295752942563
+Clip fraction: 0.01201171875
+Approximate KL Divergence: 0.0023032452445477247
+Loss: 40.57376480102539
+Clip range: 0.2
+Model updates: 1910
+======================================================
+============= TIMESTEP N. 391168 =============
+Mean episode reward (rollout): 245.66364743999998
+Mean episode lenght (rollout): 219.62
+============================================
+Entropy loss: -0.5352104811929166
+Policy loss: -0.000988743154448457
+Value loss: 138.43744005560876
+Clip fraction: 0.000634765625
+Approximate KL Divergence: 0.0008547482430003583
+Loss: 9.419205665588379
+Clip range: 0.2
+Model updates: 1920
+======================================================
+============= TIMESTEP N. 393216 =============
+Mean episode reward (rollout): 243.24798117999998
+Mean episode lenght (rollout): 216.03
+============================================
+Entropy loss: -0.611300403624773
+Policy loss: -0.003774070617510006
+Value loss: 117.37989286780358
+Clip fraction: 0.004931640625
+Approximate KL Divergence: 0.0035288124345242977
+Loss: 11.979109764099121
+Clip range: 0.2
+Model updates: 1930
+======================================================
+============= TIMESTEP N. 395264 =============
+Mean episode reward (rollout): 243.71408457
+Mean episode lenght (rollout): 223.75
+============================================
+Entropy loss: -0.6498610101640224
+Policy loss: -0.003478430843097158
+Value loss: 33.65525044649839
+Clip fraction: 0.110400390625
+Approximate KL Divergence: 0.006292416714131832
+Loss: 15.121973037719727
+Clip range: 0.2
+Model updates: 1940
+======================================================
+============= TIMESTEP N. 397312 =============
+Mean episode reward (rollout): 249.53818992000004
+Mean episode lenght (rollout): 223.66
+============================================
+Entropy loss: -0.513748328667134
+Policy loss: -0.0010377102677011862
+Value loss: 67.30284615755082
+Clip fraction: 0.004345703125
+Approximate KL Divergence: 0.0022234758362174034
+Loss: 23.245162963867188
+Clip range: 0.2
+Model updates: 1950
+======================================================
+============= TIMESTEP N. 399360 =============
+Mean episode reward (rollout): 249.03181025999996
+Mean episode lenght (rollout): 229.44
+============================================
+Entropy loss: -0.5666696245782077
+Policy loss: -0.003871457083732821
+Value loss: 24.989932575821875
+Clip fraction: 0.030615234375
+Approximate KL Divergence: 0.005270188674330711
+Loss: 15.04733657836914
+Clip range: 0.2
+Model updates: 1960
+======================================================
+============= TIMESTEP N. 401408 =============
+Mean episode reward (rollout): 249.9805578
+Mean episode lenght (rollout): 229.43
+============================================
+Entropy loss: -0.6196467527188361
+Policy loss: -0.0020651802406064235
+Value loss: 14.633392195403577
+Clip fraction: 0.02333984375
+Approximate KL Divergence: 0.003244515275582671
+Loss: 8.574257850646973
+Clip range: 0.2
+Model updates: 1970
+======================================================
+============= TIMESTEP N. 403456 =============
+Mean episode reward (rollout): 249.03081749
+Mean episode lenght (rollout): 227.19
+============================================
+Entropy loss: -0.5200470443814993
+Policy loss: -0.0017388260195730254
+Value loss: 22.923141387104987
+Clip fraction: 0.0220703125
+Approximate KL Divergence: 0.003347327234223485
+Loss: 4.6394362449646
+Clip range: 0.2
+Model updates: 1980
+======================================================
+============= TIMESTEP N. 405504 =============
+Mean episode reward (rollout): 249.93680941000002
+Mean episode lenght (rollout): 235.07
+============================================
+Entropy loss: -0.5944235505536198
+Policy loss: -0.002324690649402328
+Value loss: 26.159389064460992
+Clip fraction: 0.02197265625
+Approximate KL Divergence: 0.002932639792561531
+Loss: 22.314727783203125
+Clip range: 0.2
+Model updates: 1990
+======================================================
+============= TIMESTEP N. 407552 =============
+Mean episode reward (rollout): 250.69047164
+Mean episode lenght (rollout): 243.64
+============================================
+Entropy loss: -0.6242372438311576
+Policy loss: -0.0026963737735059114
+Value loss: 45.732529470324515
+Clip fraction: 0.066650390625
+Approximate KL Divergence: 0.007822701707482338
+Loss: 52.01333999633789
+Clip range: 0.2
+Model updates: 2000
+======================================================
+============= TIMESTEP N. 409600 =============
+Mean episode reward (rollout): 254.15615279999994
+Mean episode lenght (rollout): 245.46
+============================================
+Entropy loss: -0.5272992331534624
+Policy loss: -0.00301772803068161
+Value loss: 24.59647518247366
+Clip fraction: 0.0193359375
+Approximate KL Divergence: 0.0022409395314753056
+Loss: 7.395366668701172
+Clip range: 0.2
+Model updates: 2010
+======================================================
+============= TIMESTEP N. 411648 =============
+Mean episode reward (rollout): 246.64174412999998
+Mean episode lenght (rollout): 251.87
+============================================
+Entropy loss: -0.6044744372367858
+Policy loss: -0.0018702641245909035
+Value loss: 88.21779641360044
+Clip fraction: 0.0142578125
+Approximate KL Divergence: 0.004061900079250336
+Loss: 9.935943603515625
+Clip range: 0.2
+Model updates: 2020
+======================================================
+============= TIMESTEP N. 413696 =============
+Mean episode reward (rollout): 249.3980734
+Mean episode lenght (rollout): 242.83
+============================================
+Entropy loss: -0.5596170465461909
+Policy loss: -0.0032110579064465127
+Value loss: 97.93724860548973
+Clip fraction: 0.0208984375
+Approximate KL Divergence: 0.002946600317955017
+Loss: 28.828245162963867
+Clip range: 0.2
+Model updates: 2030
+======================================================
+============= TIMESTEP N. 415744 =============
+Mean episode reward (rollout): 252.63115751000004
+Mean episode lenght (rollout): 252.62
+============================================
+Entropy loss: -0.635884196870029
+Policy loss: -0.0024326911196112634
+Value loss: 24.820492674410342
+Clip fraction: 0.018798828125
+Approximate KL Divergence: 0.0023885113187134266
+Loss: 3.178663969039917
+Clip range: 0.2
+Model updates: 2040
+======================================================
+============= TIMESTEP N. 417792 =============
+Mean episode reward (rollout): 255.76211836999994
+Mean episode lenght (rollout): 252.53
+============================================
+Entropy loss: -0.5280527542345226
+Policy loss: -0.002282923132588621
+Value loss: 93.22951418459415
+Clip fraction: 0.034521484375
+Approximate KL Divergence: 0.004590960219502449
+Loss: 11.998380661010742
+Clip range: 0.2
+Model updates: 2050
+======================================================
+============= TIMESTEP N. 419840 =============
+Mean episode reward (rollout): 254.66146978999998
+Mean episode lenght (rollout): 261.52
+============================================
+Entropy loss: -0.5391650366596877
+Policy loss: -0.00282763358700322
+Value loss: 32.35528304725885
+Clip fraction: 0.093603515625
+Approximate KL Divergence: 0.009981406852602959
+Loss: 24.27387046813965
+Clip range: 0.2
+Model updates: 2060
+======================================================
+============= TIMESTEP N. 421888 =============
+Mean episode reward (rollout): 253.64044015999997
+Mean episode lenght (rollout): 269.08
+============================================
+Entropy loss: -0.6183254869654775
+Policy loss: -0.003128478245344013
+Value loss: 18.99832002297044
+Clip fraction: 0.046875
+Approximate KL Divergence: 0.006074243225157261
+Loss: 10.939899444580078
+Clip range: 0.2
+Model updates: 2070
+======================================================
+============= TIMESTEP N. 423936 =============
+Mean episode reward (rollout): 249.19098672999996
+Mean episode lenght (rollout): 264.83
+============================================
+Entropy loss: -0.5773728667758405
+Policy loss: -0.0013651197776198387
+Value loss: 101.53253807127476
+Clip fraction: 0.006591796875
+Approximate KL Divergence: 0.002372277667745948
+Loss: 18.758729934692383
+Clip range: 0.2
+Model updates: 2080
+======================================================
+============= TIMESTEP N. 425984 =============
+Mean episode reward (rollout): 248.42949795999996
+Mean episode lenght (rollout): 245.96
+============================================
+Entropy loss: -0.5601312185637652
+Policy loss: -0.0014752349903574213
+Value loss: 92.76387804746628
+Clip fraction: 0.016357421875
+Approximate KL Divergence: 0.0023631977383047342
+Loss: 13.156889915466309
+Clip range: 0.2
+Model updates: 2090
+======================================================
+============= TIMESTEP N. 428032 =============
+Mean episode reward (rollout): 241.0738223
+Mean episode lenght (rollout): 245.36
+============================================
+Entropy loss: -0.5410487844608725
+Policy loss: -0.0014517438699840567
+Value loss: 196.96298917531968
+Clip fraction: 0.02197265625
+Approximate KL Divergence: 0.0031465692445635796
+Loss: 90.10466003417969
+Clip range: 0.2
+Model updates: 2100
+======================================================
+============= TIMESTEP N. 430080 =============
+Mean episode reward (rollout): 240.55267647000005
+Mean episode lenght (rollout): 229.77
+============================================
+Entropy loss: -0.5422565701417625
+Policy loss: -0.0014744557876838372
+Value loss: 78.09723525643349
+Clip fraction: 0.020263671875
+Approximate KL Divergence: 0.0026151861529797316
+Loss: 11.479961395263672
+Clip range: 0.2
+Model updates: 2110
+======================================================
+============= TIMESTEP N. 432128 =============
+Mean episode reward (rollout): 240.32016906
+Mean episode lenght (rollout): 238.8
+============================================
+Entropy loss: -0.4308473930694163
+Policy loss: -0.0029902239562943577
+Value loss: 32.890781928598884
+Clip fraction: 0.040478515625
+Approximate KL Divergence: 0.003211592324078083
+Loss: 12.372611045837402
+Clip range: 0.2
+Model updates: 2120
+======================================================
+============= TIMESTEP N. 434176 =============
+Mean episode reward (rollout): 226.85467709
+Mean episode lenght (rollout): 233.72
+============================================
+Entropy loss: -0.688107592239976
+Policy loss: -0.0013988709179102443
+Value loss: 281.7542174696922
+Clip fraction: 0.015576171875
+Approximate KL Divergence: 0.0025729823391884565
+Loss: 181.01609802246094
+Clip range: 0.2
+Model updates: 2130
+======================================================
+============= TIMESTEP N. 436224 =============
+Mean episode reward (rollout): 226.66474178
+Mean episode lenght (rollout): 237.41
+============================================
+Entropy loss: -0.6088186350651086
+Policy loss: -0.000730834118439816
+Value loss: 192.73670877218245
+Clip fraction: 0.000390625
+Approximate KL Divergence: 0.0012921050656586885
+Loss: 75.79155731201172
+Clip range: 0.2
+Model updates: 2140
+======================================================
+============= TIMESTEP N. 438272 =============
+Mean episode reward (rollout): 228.17617085999998
+Mean episode lenght (rollout): 238.25
+============================================
+Entropy loss: -0.5658416088670493
+Policy loss: -0.0014912156126229092
+Value loss: 76.58829983472825
+Clip fraction: 0.031201171875
+Approximate KL Divergence: 0.00558115029707551
+Loss: 13.230857849121094
+Clip range: 0.2
+Model updates: 2150
+======================================================
+============= TIMESTEP N. 440320 =============
+Mean episode reward (rollout): 221.41058879999997
+Mean episode lenght (rollout): 245.01
+============================================
+Entropy loss: -0.6436815369874239
+Policy loss: -0.0020159559382591395
+Value loss: 82.19760633856058
+Clip fraction: 0.00810546875
+Approximate KL Divergence: 0.005642982199788094
+Loss: 39.07670211791992
+Clip range: 0.2
+Model updates: 2160
+======================================================
+============= TIMESTEP N. 442368 =============
+Mean episode reward (rollout): 221.72474205000003
+Mean episode lenght (rollout): 247.27
+============================================
+Entropy loss: -0.5285587871447206
+Policy loss: -0.0009354891633847728
+Value loss: 79.70085198283195
+Clip fraction: 0.024462890625
+Approximate KL Divergence: 0.0029165882151573896
+Loss: 17.31012535095215
+Clip range: 0.2
+Model updates: 2170
+======================================================
+============= TIMESTEP N. 444416 =============
+Mean episode reward (rollout): 223.96491448000003
+Mean episode lenght (rollout): 239.14
+============================================
+Entropy loss: -0.5179497516714037
+Policy loss: -0.005313486183877103
+Value loss: 26.87999484241009
+Clip fraction: 0.05029296875
+Approximate KL Divergence: 0.016328617930412292
+Loss: 6.627549648284912
+Clip range: 0.2
+Model updates: 2180
+======================================================
+============= TIMESTEP N. 446464 =============
+Mean episode reward (rollout): 224.69402943
+Mean episode lenght (rollout): 233.39
+============================================
+Entropy loss: -0.5087389118969441
+Policy loss: -0.0007068189210258424
+Value loss: 168.33963559865953
+Clip fraction: 0.00029296875
+Approximate KL Divergence: 0.0009729118901304901
+Loss: 32.990867614746094
+Clip range: 0.2
+Model updates: 2190
+======================================================
+============= TIMESTEP N. 448512 =============
+Mean episode reward (rollout): 225.65952599
+Mean episode lenght (rollout): 237.38
+============================================
+Entropy loss: -0.5130749380216002
+Policy loss: -0.002149895665934309
+Value loss: 63.71288703382015
+Clip fraction: 0.016015625
+Approximate KL Divergence: 0.002435621339827776
+Loss: 37.56901168823242
+Clip range: 0.2
+Model updates: 2200
+======================================================
+============= TIMESTEP N. 450560 =============
+Mean episode reward (rollout): 228.51318303999997
+Mean episode lenght (rollout): 237.53
+============================================
+Entropy loss: -0.4405710562132299
+Policy loss: -0.0015479625668376683
+Value loss: 116.67017476558685
+Clip fraction: 0.018359375
+Approximate KL Divergence: 0.001803410705178976
+Loss: 122.58961486816406
+Clip range: 0.2
+Model updates: 2210
+======================================================
+============= TIMESTEP N. 452608 =============
+Mean episode reward (rollout): 226.43513222000004
+Mean episode lenght (rollout): 235.92
+============================================
+Entropy loss: -0.46111324774101375
+Policy loss: -0.0027899157925276087
+Value loss: 189.7868164241314
+Clip fraction: 0.010791015625
+Approximate KL Divergence: 0.0031702318228781223
+Loss: 28.056921005249023
+Clip range: 0.2
+Model updates: 2220
+======================================================
+============= TIMESTEP N. 454656 =============
+Mean episode reward (rollout): 224.06816790000005
+Mean episode lenght (rollout): 227.99
+============================================
+Entropy loss: -0.5984513354487717
+Policy loss: -0.0006130820838734508
+Value loss: 122.07906892895699
+Clip fraction: 0.001123046875
+Approximate KL Divergence: 0.0005233308766037226
+Loss: 23.079376220703125
+Clip range: 0.2
+Model updates: 2230
+======================================================
+============= TIMESTEP N. 456704 =============
+Mean episode reward (rollout): 238.22826469000003
+Mean episode lenght (rollout): 223.28
+============================================
+Entropy loss: -0.5471423245035112
+Policy loss: -0.002897247138025705
+Value loss: 28.9850393474102
+Clip fraction: 0.030224609375
+Approximate KL Divergence: 0.0028721578419208527
+Loss: 13.984971046447754
+Clip range: 0.2
+Model updates: 2240
+======================================================
+============= TIMESTEP N. 458752 =============
+Mean episode reward (rollout): 239.69796508999997
+Mean episode lenght (rollout): 218.02
+============================================
+Entropy loss: -0.5579197583720088
+Policy loss: -0.0007357542912359349
+Value loss: 240.07758647203445
+Clip fraction: 0.0005859375
+Approximate KL Divergence: 0.0014430404407903552
+Loss: 347.56072998046875
+Clip range: 0.2
+Model updates: 2250
+======================================================
+============= TIMESTEP N. 460800 =============
+Mean episode reward (rollout): 246.02691610999997
+Mean episode lenght (rollout): 214.7
+============================================
+Entropy loss: -0.5374941602349281
+Policy loss: -0.0024082545656710862
+Value loss: 55.184418097138405
+Clip fraction: 0.008984375
+Approximate KL Divergence: 0.0018603005446493626
+Loss: 23.75131607055664
+Clip range: 0.2
+Model updates: 2260
+======================================================
+============= TIMESTEP N. 462848 =============
+Mean episode reward (rollout): 249.67596935999995
+Mean episode lenght (rollout): 207.13
+============================================
+Entropy loss: -0.5614202519878745
+Policy loss: -0.000924067830783315
+Value loss: 69.45165801048279
+Clip fraction: 0.0087890625
+Approximate KL Divergence: 0.001374696847051382
+Loss: 21.11457061767578
+Clip range: 0.2
+Model updates: 2270
+======================================================
+============= TIMESTEP N. 464896 =============
+Mean episode reward (rollout): 245.64242165999997
+Mean episode lenght (rollout): 221.99
+============================================
+Entropy loss: -0.6398991629481315
+Policy loss: -0.0013217520521720872
+Value loss: 28.494973377883433
+Clip fraction: 0.03193359375
+Approximate KL Divergence: 0.006069701164960861
+Loss: 19.180593490600586
+Clip range: 0.2
+Model updates: 2280
+======================================================
+============= TIMESTEP N. 466944 =============
+Mean episode reward (rollout): 250.19891290999996
+Mean episode lenght (rollout): 215.71
+============================================
+Entropy loss: -0.5095541841350496
+Policy loss: -0.002296354681311641
+Value loss: 37.91026172041893
+Clip fraction: 0.005615234375
+Approximate KL Divergence: 0.0020619116257876158
+Loss: 12.84827709197998
+Clip range: 0.2
+Model updates: 2290
+======================================================
+============= TIMESTEP N. 468992 =============
+Mean episode reward (rollout): 248.76621823000002
+Mean episode lenght (rollout): 230.07
+============================================
+Entropy loss: -0.5119175343774259
+Policy loss: -0.0017100664554163814
+Value loss: 16.888577257096767
+Clip fraction: 0.00419921875
+Approximate KL Divergence: 0.0021041566506028175
+Loss: 8.289199829101562
+Clip range: 0.2
+Model updates: 2300
+======================================================
+============= TIMESTEP N. 471040 =============
+Mean episode reward (rollout): 252.51735297999997
+Mean episode lenght (rollout): 231.78
+============================================
+Entropy loss: -0.4583648396655917
+Policy loss: -0.0006425240004318767
+Value loss: 91.76722074151039
+Clip fraction: 0.0
+Approximate KL Divergence: 0.00032511819154024124
+Loss: 36.27254104614258
+Clip range: 0.2
+Model updates: 2310
+======================================================
+============= TIMESTEP N. 473088 =============
+Mean episode reward (rollout): 249.98782083000003
+Mean episode lenght (rollout): 229.78
+============================================
+Entropy loss: -0.563502497319132
+Policy loss: -0.0018503705301554873
+Value loss: 76.2918614089489
+Clip fraction: 0.015234375
+Approximate KL Divergence: 0.002353774383664131
+Loss: 26.478618621826172
+Clip range: 0.2
+Model updates: 2320
+======================================================
+============= TIMESTEP N. 475136 =============
+Mean episode reward (rollout): 246.54381931
+Mean episode lenght (rollout): 235.94
+============================================
+Entropy loss: -0.6013169499114156
+Policy loss: -0.001145570501103066
+Value loss: 74.39194184541702
+Clip fraction: 0.0001953125
+Approximate KL Divergence: 0.0013103410601615906
+Loss: 21.103561401367188
+Clip range: 0.2
+Model updates: 2330
+======================================================
+============= TIMESTEP N. 477184 =============
+Mean episode reward (rollout): 253.48953883
+Mean episode lenght (rollout): 245.68
+============================================
+Entropy loss: -0.5365377056412399
+Policy loss: -0.00041916765621863306
+Value loss: 177.7280571103096
+Clip fraction: 0.0
+Approximate KL Divergence: 0.00015828514005988836
+Loss: 128.2833251953125
+Clip range: 0.2
+Model updates: 2340
+======================================================
+============= TIMESTEP N. 479232 =============
+Mean episode reward (rollout): 249.54181072999995
+Mean episode lenght (rollout): 243.14
+============================================
+Entropy loss: -0.5341628879308701
+Policy loss: -0.0002983460755785927
+Value loss: 166.20243354141712
+Clip fraction: 0.0
+Approximate KL Divergence: 0.00020352285355329514
+Loss: 54.64906311035156
+Clip range: 0.2
+Model updates: 2350
+======================================================
+============= TIMESTEP N. 481280 =============
+Mean episode reward (rollout): 254.31282486999996
+Mean episode lenght (rollout): 250.34
+============================================
+Entropy loss: -0.5211910422891378
+Policy loss: -0.0023711448709946127
+Value loss: 49.09807885587215
+Clip fraction: 0.011328125
+Approximate KL Divergence: 0.004022340755909681
+Loss: 11.516157150268555
+Clip range: 0.2
+Model updates: 2360
+======================================================
+============= TIMESTEP N. 483328 =============
+Mean episode reward (rollout): 248.62292627000002
+Mean episode lenght (rollout): 260.05
+============================================
+Entropy loss: -0.5744733531028032
+Policy loss: -0.00017474857304478064
+Value loss: 136.40705935359
+Clip fraction: 0.0
+Approximate KL Divergence: 0.000147353537613526
+Loss: 89.2491683959961
+Clip range: 0.2
+Model updates: 2370
+======================================================
+============= TIMESTEP N. 485376 =============
+Mean episode reward (rollout): 246.73171042
+Mean episode lenght (rollout): 258.65
+============================================
+Entropy loss: -0.557930049765855
+Policy loss: -0.000638910626003053
+Value loss: 189.35646146535873
+Clip fraction: 0.0
+Approximate KL Divergence: 0.0005908644525334239
+Loss: 75.92414093017578
+Clip range: 0.2
+Model updates: 2380
+======================================================
+============= TIMESTEP N. 487424 =============
+Mean episode reward (rollout): 240.33571477
+Mean episode lenght (rollout): 255.16
+============================================
+Entropy loss: -0.5491964488290251
+Policy loss: -0.0018557507792138495
+Value loss: 251.15624942183496
+Clip fraction: 0.000146484375
+Approximate KL Divergence: 0.0013348986394703388
+Loss: 174.22134399414062
+Clip range: 0.2
+Model updates: 2390
+======================================================
+============= TIMESTEP N. 489472 =============
+Mean episode reward (rollout): 241.86559936999998
+Mean episode lenght (rollout): 237.56
+============================================
+Entropy loss: -0.49604985443875194
+Policy loss: -0.0007384129654383287
+Value loss: 120.68822901844979
+Clip fraction: 0.0
+Approximate KL Divergence: 0.0006523156771436334
+Loss: 105.15825653076172
+Clip range: 0.2
+Model updates: 2400
+======================================================
+============= TIMESTEP N. 491520 =============
+Mean episode reward (rollout): 241.30649763000002
+Mean episode lenght (rollout): 228.26
+============================================
+Entropy loss: -0.5700377670116723
+Policy loss: -0.0006238088215468451
+Value loss: 25.766432869434357
+Clip fraction: 0.000830078125
+Approximate KL Divergence: 0.0014671419048681855
+Loss: 10.34803581237793
+Clip range: 0.2
+Model updates: 2410
+======================================================
+============= TIMESTEP N. 493568 =============
+Mean episode reward (rollout): 233.35912333
+Mean episode lenght (rollout): 222.55
+============================================
+Entropy loss: -0.5449868800118566
+Policy loss: -0.00021610762632917613
+Value loss: 162.7941945552826
+Clip fraction: 0.0
+Approximate KL Divergence: 7.638960960321128e-05
+Loss: 39.3868408203125
+Clip range: 0.2
+Model updates: 2420
+======================================================
+============= TIMESTEP N. 495616 =============
+Mean episode reward (rollout): 239.84511242000005
+Mean episode lenght (rollout): 224.28
+============================================
+Entropy loss: -0.5135731142945588
+Policy loss: -0.00019155723421135918
+Value loss: 62.124016559123994
+Clip fraction: 0.0
+Approximate KL Divergence: 0.00012013394734822214
+Loss: 21.417667388916016
+Clip range: 0.2
+Model updates: 2430
+======================================================
+============= TIMESTEP N. 497664 =============
+Mean episode reward (rollout): 241.89760305
+Mean episode lenght (rollout): 225.51
+============================================
+Entropy loss: -0.5646995931863785
+Policy loss: -1.173920463770628e-05
+Value loss: 58.047694134712216
+Clip fraction: 0.0
+Approximate KL Divergence: 4.322326276451349e-06
+Loss: 20.348133087158203
+Clip range: 0.2
+Model updates: 2440
+======================================================
+============= TIMESTEP N. 499712 =============
+Mean episode reward (rollout): 238.58512292000003
+Mean episode lenght (rollout): 224.21
+============================================
+Entropy loss: -0.503403639420867
+Policy loss: -1.5724275726824998e-06
+Value loss: 256.91884450912477
+Clip fraction: 0.0
+Approximate KL Divergence: 1.525040715932846e-08
+Loss: 74.05877685546875
+Clip range: 0.2
+Model updates: 2450
+======================================================
+============= TIMESTEP N. 501760 =============
+Mean episode reward (rollout): 233.10238035999998
+Mean episode lenght (rollout): 233.25
+============================================
+Entropy loss: -0.5920290347188711
+Policy loss: 6.83827674947679e-06
+Value loss: 388.61285691857336
+Clip fraction: 0.0
+Approximate KL Divergence: 3.1109084375202656e-07
+Loss: 392.31890869140625
+Clip range: 0.2
+Model updates: 2460
+======================================================
